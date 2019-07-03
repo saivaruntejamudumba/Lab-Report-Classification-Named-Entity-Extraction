@@ -1,0 +1,2998 @@
+1	no_biomarkers	
+2	no_biomarkers	
+3	pos_neg_vous	{'PD-L1': 'negative'}	
+4	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	90%	(5+)	
+5	pos_neg_vous	{'BRCA2 PD-L1 GATA3 GATA2 BRCA1 HRAS ALK': 'vous'}	
+6	no_biomarkers	
+7	no_biomarkers	
+8	no_biomarkers	
+9	pos_neg_vous	{'BRCA1': 'positive'}	
+10	no_biomarkers	
+11	no_biomarkers	
+12	no_biomarkers	
+13	no_biomarkers	
+14	no_biomarkers	
+15	pos_neg_vous	{'BRCA2 BRCA1 EGFR ALK GATA3 PD-L1 GATA2': 'vous'}	
+16	no_biomarkers	
+17	pos_neg_vous	{'PD-L1 BRCA2 BRCA1': 'negtive'}	
+18	pos_neg_vous	{'BRCA2 EGFR HRAS PD-L1 BRCA1 GATA2': 'vous'}	
+19	no_biomarkers	
+20	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 4%	(1+)	
+21	failed	
+22	no_biomarkers	
+23	pos_neg_vous	{'ALK BRCA2 GATA2': 'negtive'}	
+24	no_biomarkers	
+25	no_biomarkers	
+26	failed	
+27	no_biomarkers	
+28	pos_neg_vous	{'HRAS BRCA1 ALK': 'vous'}	
+29	no_biomarkers	
+30	no_biomarkers	
+31	no_biomarkers	
+32	no_biomarkers	
+33	no_biomarkers	
+34	no_biomarkers	
+35	no_biomarkers	
+36	no_biomarkers	
+37	pos_neg_vous	{'BRCA1 PD-L1 ALK HRAS BRCA2': 'vous'}	
+38	pos_neg_vous	{'GATA2': 'positive'}	
+39	no_biomarkers	
+40	pos_neg_vous	{'EGFR BRCA2 ALK BRCA1 GATA3 HRAS': 'vous'}	
+41	pos_neg_vous	{'BRCA1': 'vous'}	
+42	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 1%	(1+)	
+43	pos_neg_vous	{'BRCA2 HRAS PD-L1': 'vous'}	
+44	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	36%	(2+)	
+45	no_biomarkers	
+46	no_biomarkers	(2+ 	
+47	pos_neg_vous	{'BRCA1 PD-L1 GATA3': 'vous'}	
+48	pos_neg_vous	{'EGFR': 'positive'}	
+49	failed	
+50	pos_neg_vous	{'ALK': 'positive'}	
+51	no_biomarkers	
+52	failed	
+53	no_biomarkers	
+54	pos_neg_vous	{'ALK BRCA1 HRAS BRCA2 EGFR': 'negative'}	
+55	no_biomarkers	
+56	pos_neg_vous	{'ALK EGFR PD-L1 BRCA2 GATA2': 'vous'}	
+57	no_biomarkers	
+58	no_biomarkers	
+59	pos_neg_vous	{'BRCA1 ALK GATA2 HRAS BRCA2 EGFR': 'negative'}	
+60	no_biomarkers	
+61	no_biomarkers	
+62	no_biomarkers	
+63	no_biomarkers	
+64	no_biomarkers	
+65	no_biomarkers	
+66	no_biomarkers	
+67	pos_neg_vous	{'PD-L1': 'negative'}	
+68	no_biomarkers	
+69	pos_neg_vous	{'ALK BRCA1 GATA3 PD-L1': 'vous'}	
+70	no_biomarkers	
+71	no_biomarkers	
+72	no_biomarkers	
+73	no_biomarkers	
+74	pos_neg_vous	{'BRCA1': 'positive'}	
+75	pos_neg_vous	{'HRAS': 'vous'}	
+76	no_biomarkers	
+77	no_biomarkers	(2+ 	
+78	no_biomarkers	
+79	no_biomarkers	
+80	pos_neg_vous	{'ALK': 'negative'}	
+81	no_biomarkers	
+82	pos_neg_vous	{'BRCA1': 'positive'}	
+83	pos_neg_vous	{'HRAS BRCA1 ALK PD-L1 GATA3': 'vous'}	
+84	pos_neg_vous	{'BRCA1 GATA2 EGFR GATA3 BRCA2 ALK': 'negtive'}	
+85	no_biomarkers	
+86	no_biomarkers	
+87	pos_neg_vous	{'GATA3 ALK': 'vous'}	
+88	pos_neg_vous	{'GATA2': 'positive'}	
+89	no_biomarkers	
+90	pos_neg_vous	{'BRCA2': 'positive'}	
+91	pos_neg_vous	{'EGFR': 'positive'}	
+92	no_biomarkers	
+93	failed	
+94	no_biomarkers	
+95	no_biomarkers	
+96	pos_neg_vous	{'GATA3 PD-L1 ALK EGFR': 'vous'}	
+97	pos_neg_vous	{'BRCA1': 'vous'}	
+98	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 2%	(1+)	
+99	no_biomarkers	
+100	pos_neg_vous	{'HRAS GATA2 EGFR PD-L1 GATA3 BRCA1 ALK': 'negtive'}	
+101	no_biomarkers	
+102	no_biomarkers	
+103	pos_neg_vous	{'PD-L1 BRCA2 HRAS BRCA1 EGFR ALK': 'negtive'}	
+104	pos_neg_vous	{'BRCA2 EGFR BRCA1': 'vous'}	
+105	pos_neg_vous	{'PD-L1': 'negative'}	
+106	pos_neg_vous	{'GATA3 PD-L1': 'negtive'}	
+107	no_biomarkers	
+108	no_biomarkers	
+109	pos_neg_vous	{'HRAS GATA3 ALK GATA2 PD-L1': 'negative'}	
+110	no_biomarkers	
+111	pos_neg_vous	{'BRCA1 GATA3 ALK GATA2 HRAS BRCA2': 'vous'}	
+112	pos_neg_vous	{'HRAS': 'negative'}	
+113	no_biomarkers	
+114	pos_neg_vous	{'HRAS GATA3 ALK': 'vous'}	
+115	pos_neg_vous	{'GATA2 BRCA1 PD-L1 ALK HRAS': 'negative'}	
+116	no_biomarkers	
+117	no_biomarkers	
+118	pos_neg_vous	{'BRCA2': 'negative'}	
+119	pos_neg_vous	{'ALK GATA2': 'negative'}	
+120	pos_neg_vous	{'GATA3 GATA2': 'vous'}	
+121	failed	
+122	no_biomarkers	
+123	pos_neg_vous	{'HRAS': 'negative'}	
+124	pos_neg_vous	{'GATA3 BRCA2 PD-L1': 'vous'}	
+125	pos_neg_vous	{'BRCA1 EGFR HRAS GATA2 ALK PD-L1 GATA3 BRCA2': 'vous'}	
+126	no_biomarkers	
+127	no_biomarkers	
+128	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	45%	(2+)	
+129	failed	
+130	no_biomarkers	
+131	pos_neg_vous	{'PD-L1': 'vous'}	
+132	no_biomarkers	
+133	no_biomarkers	
+134	pos_neg_vous	{'GATA2 HRAS EGFR GATA3 ALK PD-L1 BRCA2': 'vous'}	
+135	no_biomarkers	
+136	no_biomarkers	
+137	no_biomarkers	
+138	no_biomarkers	
+139	pos_neg_vous	{'EGFR': 'negative'}	
+140	pos_neg_vous	{'PD-L1 HRAS BRCA1 BRCA2 ALK': 'vous'}	
+141	pos_neg_vous	{'PD-L1 GATA2 EGFR HRAS BRCA1': 'vous'}	
+142	no_biomarkers	
+143	pos_neg_vous	{'HRAS GATA2 PD-L1': 'negative'}	
+144	no_biomarkers	
+145	no_biomarkers	
+146	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 0%	(1+)	
+147	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 2%	(1+)	
+148	pos_neg_vous	{'GATA2 GATA3 BRCA2 PD-L1': 'vous'}	
+149	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	77%	(2+)	
+150	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 3%	(0+)	
+151	no_biomarkers	
+152	pos_neg_vous	{'EGFR': 'vous'}	
+153	failed	
+154	no_biomarkers	
+155	no_biomarkers	
+156	pos_neg_vous	{'BRCA1': 'positive'}	
+157	pos_neg_vous	{'EGFR PD-L1 GATA2 HRAS BRCA1 BRCA2 GATA3 ALK': 'vous'}	
+158	no_biomarkers	
+159	pos_neg_vous	{'GATA3 PD-L1 HRAS EGFR': 'vous'}	
+160	no_biomarkers	
+161	no_biomarkers	
+162	pos_neg_vous	{'GATA3 BRCA2 ALK EGFR': 'vous'}	
+163	no_biomarkers	
+164	pos_neg_vous	{'PD-L1 EGFR ALK HRAS': 'negtive'}	
+165	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 0%	(0+)	
+166	no_biomarkers	
+167	no_biomarkers	
+168	no_biomarkers	
+169	failed	
+170	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 9%	(1+)	
+171	pos_neg_vous	{'BRCA2 HRAS ALK': 'vous'}	
+172	pos_neg_vous	{'GATA3 GATA2 HRAS BRCA1 PD-L1 BRCA2 EGFR ALK': 'vous'}	
+173	no_biomarkers	
+174	failed	
+175	no_biomarkers	
+176	no_biomarkers	
+177	no_biomarkers	
+178	pos_neg_vous	{'GATA3 BRCA1': 'vous'}	
+179	no_biomarkers	
+180	no_biomarkers	
+181	pos_neg_vous	{'HRAS GATA2 BRCA1 ALK': 'vous'}	
+182	no_biomarkers	
+183	pos_neg_vous	{'BRCA1': 'vous'}	
+184	pos_neg_vous	{'GATA3 BRCA1 GATA2 BRCA2 PD-L1': 'negtive'}	
+185	pos_neg_vous	{'GATA3 GATA2 ALK EGFR BRCA2 BRCA1 PD-L1': 'vous'}	
+186	no_biomarkers	
+187	no_biomarkers	
+188	no_biomarkers	
+189	pos_neg_vous	{'ALK': 'negative'}	
+190	failed	
+191	pos_neg_vous	{'BRCA1': 'negative'}	
+192	pos_neg_vous	{'HRAS': 'negative'}	
+193	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	31%	(2+)	
+194	no_biomarkers	
+195	no_biomarkers	
+196	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 0%	(1+)	
+197	no_biomarkers	
+198	no_biomarkers	
+199	pos_neg_vous	{'PD-L1 EGFR': 'vous'}	
+200	failed	
+201	pos_neg_vous	{'BRCA1': 'vous'}	
+202	no_biomarkers	
+203	pos_neg_vous	{'BRCA1 ALK GATA3': 'negtive'}	
+204	failed	
+205	no_biomarkers	
+206	pos_neg_vous	{'BRCA1 BRCA2 EGFR PD-L1 ALK GATA3 GATA2': 'negative'}	
+207	pos_neg_vous	{'GATA2': 'positive'}	
+208	no_biomarkers	
+209	no_biomarkers	
+210	no_biomarkers	
+211	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	80%	(2+)	
+212	failed	
+213	no_biomarkers	
+214	no_biomarkers	
+215	pos_neg_vous	{'EGFR': 'positive'}	
+216	no_biomarkers	
+217	pos_neg_vous	{'HRAS': 'positive'}	
+218	pos_neg_vous	{'PD-L1 HRAS GATA3': 'vous'}	
+219	pos_neg_vous	{'BRCA1 BRCA2 GATA3 HRAS EGFR': 'negtive'}	
+220	pos_neg_vous	{'BRCA2 ALK GATA2': 'vous'}	
+221	pos_neg_vous	{'ALK BRCA2 GATA2 BRCA1': 'vous'}	
+222	no_biomarkers	
+223	pos_neg_vous	{'GATA2 HRAS ALK PD-L1 BRCA2 EGFR': 'vous'}	
+224	pos_neg_vous	{'HRAS ALK': 'negtive'}	
+225	no_biomarkers	
+226	no_biomarkers	
+227	pos_neg_vous	{'BRCA2': 'vous'}	
+228	no_biomarkers	
+229	no_biomarkers	
+230	no_biomarkers	
+231	no_biomarkers	
+232	no_biomarkers	
+233	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	95%	(3+)	
+234	pos_neg_vous	{'ALK HRAS GATA3 EGFR BRCA2': 'negtive'}	
+235	no_biomarkers	
+236	no_biomarkers	
+237	failed	
+238	pos_neg_vous	{'EGFR BRCA2 PD-L1 BRCA1': 'negtive'}	
+239	no_biomarkers	
+240	pos_neg_vous	{'PD-L1 EGFR GATA3 HRAS BRCA1': 'negtive'}	
+241	pos_neg_vous	{'GATA2 EGFR BRCA1 GATA3 HRAS BRCA2': 'vous'}	
+242	no_biomarkers	
+243	pos_neg_vous	{'BRCA1 EGFR ALK GATA3 HRAS': 'vous'}	
+244	no_biomarkers	
+245	pos_neg_vous	{'GATA3 EGFR BRCA2': 'vous'}	
+246	no_biomarkers	
+247	no_biomarkers	
+248	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	10%	(1+)	
+249	no_biomarkers	
+250	pos_neg_vous	{'GATA3 ALK BRCA2 BRCA1 GATA2 HRAS EGFR': 'vous'}	
+251	no_biomarkers	
+252	no_biomarkers	
+253	no_biomarkers	
+254	no_biomarkers	
+255	no_biomarkers	
+256	pos_neg_vous	{'PD-L1 EGFR ALK': 'negtive'}	
+257	no_biomarkers	
+258	no_biomarkers	
+259	no_biomarkers	
+260	pos_neg_vous	{'GATA3 GATA2': 'vous'}	
+261	no_biomarkers	
+262	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 3%	(1+)	
+263	no_biomarkers	
+264	pos_neg_vous	{'HRAS': 'vous'}	
+265	pos_neg_vous	{'PD-L1 GATA2': 'negtive'}	
+266	no_biomarkers	
+267	no_biomarkers	
+268	no_biomarkers	
+269	no_biomarkers	
+270	failed	
+271	pos_neg_vous	{'BRCA1 EGFR ALK HRAS GATA3 GATA2 PD-L1 BRCA2': 'vous'}	
+272	failed	
+273	no_biomarkers	(2+ 	
+274	no_biomarkers	
+275	no_biomarkers	
+276	no_biomarkers	
+277	no_biomarkers	
+278	failed	
+279	no_biomarkers	
+280	no_biomarkers	
+281	no_biomarkers	
+282	no_biomarkers	
+283	pos_neg_vous	{'EGFR': 'negative'}	
+284	no_biomarkers	
+285	no_biomarkers	
+286	pos_neg_vous	{'EGFR BRCA2 PD-L1 BRCA1 GATA2 HRAS ALK GATA3': 'vous'}	
+287	pos_neg_vous	{'GATA2 PD-L1 GATA3': 'negtive'}	
+288	pos_neg_vous	{'ALK': 'positive'}	
+289	no_biomarkers	
+290	pos_neg_vous	{'ALK PD-L1': 'vous'}	
+291	pos_neg_vous	{'HRAS GATA3': 'vous'}	
+292	no_biomarkers	
+293	pos_neg_vous	{'GATA3': 'negative'}	
+294	pos_neg_vous	{'ALK BRCA1 GATA3 GATA2 EGFR PD-L1': 'negative'}	
+295	no_biomarkers	
+296	failed	
+297	pos_neg_vous	{'BRCA2': 'negative'}	
+298	no_biomarkers	
+299	failed	
+300	no_biomarkers	
+301	no_biomarkers	
+302	pos_neg_vous	{'PD-L1': 'vous'}	
+303	no_biomarkers	(2+ 	
+304	pos_neg_vous	{'BRCA2 GATA3 BRCA1 EGFR PD-L1 HRAS GATA2': 'vous'}	
+305	no_biomarkers	
+306	no_biomarkers	
+307	no_biomarkers	
+308	pos_neg_vous	{'GATA2': 'negative'}	
+309	pos_neg_vous	{'BRCA2 BRCA1 ALK GATA2 HRAS EGFR GATA3': 'vous'}	
+310	no_biomarkers	
+311	failed	
+312	no_biomarkers	
+313	no_biomarkers	
+314	no_biomarkers	
+315	pos_neg_vous	{'HRAS': 'positive'}	
+316	pos_neg_vous	{'HRAS ALK EGFR BRCA1 PD-L1': 'vous'}	
+317	no_biomarkers	
+318	no_biomarkers	
+319	no_biomarkers	
+320	failed	
+321	no_biomarkers	
+322	no_biomarkers	
+323	no_biomarkers	
+324	no_biomarkers	
+325	no_biomarkers	
+326	pos_neg_vous	{'PD-L1 EGFR GATA2 ALK BRCA2': 'negtive'}	
+327	pos_neg_vous	{'BRCA2 PD-L1 GATA2': 'vous'}	
+328	pos_neg_vous	{'GATA3': 'negative'}	
+329	pos_neg_vous	{'GATA2': 'positive'}	
+330	pos_neg_vous	{'ALK BRCA2 EGFR PD-L1 GATA3': 'vous'}	
+331	pos_neg_vous	{'BRCA1': 'positive'}	
+332	failed	
+333	no_biomarkers	
+334	pos_neg_vous	{'PD-L1': 'positive'}	
+335	no_biomarkers	
+336	no_biomarkers	
+337	no_biomarkers	
+338	pos_neg_vous	{'EGFR': 'vous'}	
+339	no_biomarkers	
+340	failed	
+341	pos_neg_vous	{'EGFR HRAS BRCA2 BRCA1 PD-L1': 'vous'}	
+342	no_biomarkers	
+343	pos_neg_vous	{'BRCA1': 'negtive'}	
+344	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	91%	(4+)	
+345	no_biomarkers	
+346	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 8%	(1+)	
+347	no_biomarkers	
+348	pos_neg_vous	{'ALK': 'positive'}	
+349	pos_neg_vous	{'HRAS': 'vous'}	
+350	no_biomarkers	
+351	no_biomarkers	
+352	pos_neg_vous	{'BRCA2 GATA3 PD-L1': 'vous'}	
+353	no_biomarkers	
+354	pos_neg_vous	{'ALK GATA3 HRAS PD-L1 BRCA1': 'vous'}	
+355	no_biomarkers	
+356	no_biomarkers	
+357	no_biomarkers	
+358	no_biomarkers	
+359	no_biomarkers	
+360	failed	
+361	no_biomarkers	
+362	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	63%	(2+)	
+363	no_biomarkers	
+364	pos_neg_vous	{'EGFR PD-L1 ALK BRCA1 HRAS': 'negtive'}	
+365	pos_neg_vous	{'GATA3 HRAS GATA2 EGFR PD-L1': 'negative'}	
+366	no_biomarkers	
+367	no_biomarkers	
+368	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 2%	(0+)	
+369	pos_neg_vous	{'ALK PD-L1 HRAS EGFR BRCA1': 'vous'}	
+370	no_biomarkers	
+371	no_biomarkers	
+372	failed	
+373	no_biomarkers	
+374	no_biomarkers	
+375	failed	
+376	no_biomarkers	
+377	pos_neg_vous	{'HRAS ALK': 'negative'}	
+378	no_biomarkers	
+379	pos_neg_vous	{'HRAS ALK BRCA1 PD-L1 BRCA2 EGFR GATA3': 'vous'}	
+380	no_biomarkers	
+381	pos_neg_vous	{'GATA2 GATA3 EGFR BRCA1 PD-L1': 'negtive'}	
+382	no_biomarkers	
+383	pos_neg_vous	{'BRCA2': 'negative'}	
+384	pos_neg_vous	{'GATA3 PD-L1 BRCA2 GATA2 EGFR ALK HRAS': 'negative'}	
+385	failed	
+386	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 2%	(1+)	
+387	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	91%	(3+)	
+388	no_biomarkers	
+389	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 4%	(0+)	
+390	failed	
+391	pos_neg_vous	{'BRCA2': 'vous'}	
+392	no_biomarkers	
+393	failed	
+394	no_biomarkers	
+395	no_biomarkers	
+396	no_biomarkers	
+397	failed	
+398	no_biomarkers	
+399	pos_neg_vous	{'EGFR': 'vous'}	
+400	no_biomarkers	
+401	pos_neg_vous	{'BRCA2 HRAS BRCA1 ALK PD-L1 GATA3': 'vous'}	
+402	no_biomarkers	
+403	no_biomarkers	
+404	no_biomarkers	
+405	no_biomarkers	
+406	pos_neg_vous	{'GATA3': 'vous'}	
+407	no_biomarkers	
+408	no_biomarkers	
+409	no_biomarkers	
+410	failed	
+411	no_biomarkers	
+412	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	97%	(4+)	
+413	no_biomarkers	
+414	failed	
+415	no_biomarkers	
+416	pos_neg_vous	{'BRCA1': 'negative'}	
+417	no_biomarkers	
+418	no_biomarkers	
+419	no_biomarkers	
+420	failed	
+421	no_biomarkers	
+422	no_biomarkers	
+423	no_biomarkers	
+424	no_biomarkers	
+425	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	30%	(2+)	
+426	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	82%	(2+)	
+427	no_biomarkers	
+428	pos_neg_vous	{'PD-L1 GATA3 HRAS BRCA1': 'negtive'}	
+429	failed	
+430	no_biomarkers	
+431	no_biomarkers	
+432	no_biomarkers	
+433	no_biomarkers	
+434	failed	
+435	no_biomarkers	
+436	no_biomarkers	
+437	pos_neg_vous	{'BRCA1': 'negative'}	
+438	no_biomarkers	
+439	no_biomarkers	
+440	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	20%	(2+)	
+441	no_biomarkers	
+442	pos_neg_vous	{'GATA3': 'positive'}	
+443	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	00%	(4+)	
+444	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	99%	(3+)	
+445	no_biomarkers	
+446	pos_neg_vous	{'HRAS GATA3 PD-L1 GATA2 ALK BRCA2 EGFR BRCA1': 'vous'}	
+447	no_biomarkers	
+448	pos_neg_vous	{'BRCA1': 'positive'}	
+449	pos_neg_vous	{'HRAS': 'positive'}	
+450	no_biomarkers	
+451	pos_neg_vous	{'GATA2': 'positive'}	
+452	pos_neg_vous	{'GATA3': 'negative'}	
+453	pos_neg_vous	{'BRCA2 GATA3 EGFR': 'vous'}	
+454	pos_neg_vous	{'HRAS GATA2': 'vous'}	
+455	pos_neg_vous	{'BRCA1 HRAS PD-L1': 'vous'}	
+456	failed	
+457	pos_neg_vous	{'BRCA2 HRAS': 'vous'}	
+458	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	46%	(2+)	
+459	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 7%	(0+)	
+460	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 7%	(0+)	
+461	no_biomarkers	
+462	pos_neg_vous	{'GATA2': 'positive'}	
+463	pos_neg_vous	{'EGFR GATA3': 'vous'}	
+464	no_biomarkers	
+465	no_biomarkers	
+466	no_biomarkers	
+467	no_biomarkers	
+468	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	96%	(5+)	
+469	pos_neg_vous	{'GATA2 BRCA2': 'negtive'}	
+470	no_biomarkers	
+471	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 1%	(1+)	
+472	no_biomarkers	
+473	failed	
+474	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 8%	(0+)	
+475	no_biomarkers	
+476	no_biomarkers	
+477	pos_neg_vous	{'GATA3 EGFR BRCA1 BRCA2 HRAS GATA2': 'negative'}	
+478	pos_neg_vous	{'GATA2 HRAS GATA3 BRCA2': 'vous'}	
+479	pos_neg_vous	{'GATA3 PD-L1 EGFR GATA2 BRCA1 ALK': 'vous'}	
+480	no_biomarkers	
+481	pos_neg_vous	{'PD-L1': 'negative'}	
+482	no_biomarkers	
+483	pos_neg_vous	{'ALK': 'negative'}	
+484	no_biomarkers	
+485	no_biomarkers	
+486	no_biomarkers	
+487	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 8%	(1+)	
+488	pos_neg_vous	{'ALK GATA2 BRCA2 BRCA1 PD-L1 HRAS EGFR': 'vous'}	
+489	no_biomarkers	
+490	no_biomarkers	
+491	failed	
+492	failed	
+493	no_biomarkers	
+494	pos_neg_vous	{'GATA2 GATA3 PD-L1 HRAS ALK EGFR BRCA1': 'negative'}	
+495	pos_neg_vous	{'BRCA2 GATA2 HRAS ALK PD-L1': 'vous'}	
+496	pos_neg_vous	{'GATA2': 'negative'}	
+497	no_biomarkers	
+498	no_biomarkers	
+499	pos_neg_vous	{'ALK': 'negative'}	
+500	failed	
+501	no_biomarkers	
+502	no_biomarkers	
+503	pos_neg_vous	{'HRAS BRCA1 EGFR ALK': 'vous'}	
+504	pos_neg_vous	{'ALK': 'negative'}	
+505	pos_neg_vous	{'EGFR': 'positive'}	
+506	pos_neg_vous	{'BRCA2': 'positive'}	
+507	no_biomarkers	
+508	pos_neg_vous	{'HRAS PD-L1': 'negative'}	
+509	pos_neg_vous	{'GATA2 ALK HRAS BRCA1 BRCA2 EGFR': 'negative'}	
+510	no_biomarkers	
+511	no_biomarkers	
+512	no_biomarkers	
+513	failed	
+514	pos_neg_vous	{'PD-L1 GATA2 BRCA2': 'negative'}	
+515	no_biomarkers	
+516	pos_neg_vous	{'HRAS': 'vous'}	
+517	failed	
+518	no_biomarkers	
+519	pos_neg_vous	{'BRCA1 ALK EGFR GATA3': 'negtive'}	
+520	no_biomarkers	
+521	no_biomarkers	
+522	no_biomarkers	
+523	pos_neg_vous	{'ALK': 'positive'}	
+524	pos_neg_vous	{'BRCA1 HRAS ALK BRCA2 GATA3 GATA2 EGFR PD-L1': 'vous'}	
+525	no_biomarkers	
+526	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 1%	(1+)	
+527	pos_neg_vous	{'GATA2 BRCA2 EGFR ALK PD-L1': 'vous'}	
+528	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	91%	(4+)	
+529	failed	
+530	pos_neg_vous	{'PD-L1': 'positive'}	
+531	failed	
+532	no_biomarkers	
+533	no_biomarkers	
+534	no_biomarkers	
+535	no_biomarkers	
+536	pos_neg_vous	{'PD-L1 BRCA2 GATA2 ALK': 'negative'}	
+537	no_biomarkers	
+538	no_biomarkers	
+539	failed	
+540	no_biomarkers	
+541	no_biomarkers	
+542	pos_neg_vous	{'GATA2': 'negative'}	
+543	no_biomarkers	
+544	no_biomarkers	
+545	pos_neg_vous	{'GATA3': 'vous'}	
+546	no_biomarkers	
+547	no_biomarkers	
+548	pos_neg_vous	{'EGFR BRCA1 GATA3 GATA2 PD-L1 ALK HRAS BRCA2': 'vous'}	
+549	no_biomarkers	
+550	failed	
+551	pos_neg_vous	{'BRCA2': 'negative'}	
+552	no_biomarkers	
+553	failed	
+554	pos_neg_vous	{'HRAS ALK': 'negative'}	
+555	no_biomarkers	
+556	pos_neg_vous	{'BRCA2 ALK PD-L1 GATA3': 'vous'}	
+557	pos_neg_vous	{'ALK': 'vous'}	
+558	no_biomarkers	
+559	pos_neg_vous	{'BRCA1': 'negative'}	
+560	pos_neg_vous	{'PD-L1 ALK GATA3': 'negative'}	
+561	no_biomarkers	
+562	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 1%	(1+)	
+563	no_biomarkers	
+564	pos_neg_vous	{'BRCA2 EGFR ALK HRAS': 'negtive'}	
+565	pos_neg_vous	{'HRAS ALK GATA2 EGFR PD-L1 BRCA1': 'negative'}	
+566	pos_neg_vous	{'GATA2 GATA3 ALK HRAS PD-L1 BRCA2': 'vous'}	
+567	pos_neg_vous	{'EGFR GATA3 HRAS GATA2 ALK BRCA2': 'vous'}	
+568	pos_neg_vous	{'HRAS BRCA2 GATA2 ALK': 'vous'}	
+569	no_biomarkers	
+570	no_biomarkers	
+571	failed	
+572	pos_neg_vous	{'BRCA1': 'negative'}	
+573	no_biomarkers	
+574	no_biomarkers	
+575	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	60%	(2+)	
+576	no_biomarkers	
+577	pos_neg_vous	{'EGFR GATA3 BRCA2 GATA2': 'vous'}	
+578	no_biomarkers	
+579	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	75%	(2+)	
+580	no_biomarkers	
+581	no_biomarkers	
+582	failed	
+583	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	98%	(4+)	
+584	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 0%	(1+)	
+585	no_biomarkers	
+586	no_biomarkers	
+587	pos_neg_vous	{'BRCA1 GATA2 HRAS GATA3': 'vous'}	
+588	no_biomarkers	
+589	no_biomarkers	
+590	pos_neg_vous	{'PD-L1 ALK': 'negative'}	
+591	no_biomarkers	
+592	no_biomarkers	(2+ 	
+593	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	93%	(5+)	
+594	no_biomarkers	
+595	no_biomarkers	
+596	pos_neg_vous	{'BRCA1 PD-L1 BRCA2 EGFR ALK HRAS GATA3 GATA2': 'vous'}	
+597	no_biomarkers	
+598	no_biomarkers	
+599	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	81%	(2+)	
+600	pos_neg_vous	{'ALK': 'positive'}	
+601	no_biomarkers	
+602	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	96%	(3+)	
+603	pos_neg_vous	{'EGFR PD-L1': 'vous'}	
+604	no_biomarkers	
+605	no_biomarkers	
+606	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 2%	(0+)	
+607	pos_neg_vous	{'GATA3': 'positive'}	
+608	pos_neg_vous	{'HRAS BRCA1 BRCA2': 'negative'}	
+609	no_biomarkers	
+610	no_biomarkers	
+611	pos_neg_vous	{'BRCA2': 'positive'}	
+612	no_biomarkers	
+613	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	92%	(4+)	
+614	no_biomarkers	
+615	pos_neg_vous	{'GATA2': 'negative'}	
+616	no_biomarkers	
+617	no_biomarkers	
+618	no_biomarkers	
+619	failed	
+620	pos_neg_vous	{'BRCA2': 'negative'}	
+621	no_biomarkers	
+622	no_biomarkers	
+623	pos_neg_vous	{'GATA3 PD-L1 BRCA1 BRCA2 EGFR ALK': 'vous'}	
+624	pos_neg_vous	{'GATA2 EGFR BRCA2 ALK PD-L1 GATA3': 'vous'}	
+625	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 5%	(0+)	
+626	no_biomarkers	
+627	failed	
+628	pos_neg_vous	{'BRCA1': 'negative'}	
+629	no_biomarkers	
+630	no_biomarkers	
+631	pos_neg_vous	{'EGFR ALK GATA2 BRCA2 PD-L1 GATA3 HRAS BRCA1': 'vous'}	
+632	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	94%	(4+)	
+633	pos_neg_vous	{'ALK PD-L1 GATA2': 'vous'}	
+634	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	11%	(2+)	
+635	no_biomarkers	
+636	failed	
+637	no_biomarkers	
+638	failed	
+639	no_biomarkers	
+640	no_biomarkers	
+641	no_biomarkers	
+642	pos_neg_vous	{'HRAS': 'negative'}	
+643	no_biomarkers	
+644	no_biomarkers	
+645	no_biomarkers	
+646	no_biomarkers	
+647	pos_neg_vous	{'HRAS PD-L1': 'vous'}	
+648	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 9%	(0+)	
+649	pos_neg_vous	{'PD-L1 GATA3 EGFR HRAS BRCA2 GATA2': 'negative'}	
+650	no_biomarkers	
+651	no_biomarkers	
+652	no_biomarkers	
+653	failed	
+654	no_biomarkers	
+655	no_biomarkers	
+656	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	10%	(1+)	
+657	no_biomarkers	
+658	no_biomarkers	
+659	no_biomarkers	
+660	no_biomarkers	
+661	no_biomarkers	
+662	pos_neg_vous	{'HRAS BRCA2 ALK': 'negative'}	
+663	failed	
+664	pos_neg_vous	{'GATA3 ALK GATA2 BRCA2 EGFR PD-L1': 'vous'}	
+665	pos_neg_vous	{'ALK HRAS BRCA1 PD-L1 GATA3 EGFR BRCA2': 'vous'}	
+666	no_biomarkers	
+667	pos_neg_vous	{'BRCA2 GATA2 PD-L1 HRAS BRCA1 EGFR GATA3': 'vous'}	
+668	no_biomarkers	
+669	pos_neg_vous	{'EGFR': 'positive'}	
+670	no_biomarkers	
+671	pos_neg_vous	{'BRCA2 ALK PD-L1 HRAS GATA3 EGFR BRCA1': 'negtive'}	
+672	pos_neg_vous	{'EGFR PD-L1 BRCA1': 'negtive'}	
+673	pos_neg_vous	{'HRAS BRCA2': 'negative'}	
+674	no_biomarkers	
+675	no_biomarkers	
+676	pos_neg_vous	{'GATA3': 'positive'}	
+677	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	66%	(2+)	
+678	no_biomarkers	
+679	no_biomarkers	
+680	pos_neg_vous	{'BRCA2 HRAS BRCA1 PD-L1 ALK EGFR': 'vous'}	
+681	no_biomarkers	
+682	pos_neg_vous	{'BRCA2': 'negative'}	
+683	failed	
+684	pos_neg_vous	{'GATA3': 'negative'}	
+685	pos_neg_vous	{'HRAS GATA3 BRCA1': 'vous'}	
+686	no_biomarkers	
+687	no_biomarkers	
+688	no_biomarkers	(2+ 	
+689	no_biomarkers	
+690	no_biomarkers	
+691	pos_neg_vous	{'BRCA2 ALK GATA2 PD-L1': 'vous'}	
+692	no_biomarkers	
+693	no_biomarkers	
+694	no_biomarkers	
+695	failed	
+696	no_biomarkers	
+697	pos_neg_vous	{'GATA2 BRCA1 ALK GATA3 PD-L1': 'vous'}	
+698	no_biomarkers	
+699	no_biomarkers	
+700	failed	
+701	no_biomarkers	
+702	no_biomarkers	
+703	pos_neg_vous	{'GATA3 EGFR GATA2 HRAS': 'negtive'}	
+704	no_biomarkers	
+705	no_biomarkers	(2+ 	
+706	no_biomarkers	
+707	failed	
+708	no_biomarkers	
+709	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	95%	(4+)	
+710	pos_neg_vous	{'EGFR GATA2 HRAS': 'vous'}	
+711	no_biomarkers	
+712	no_biomarkers	
+713	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	72%	(2+)	
+714	no_biomarkers	
+715	pos_neg_vous	{'EGFR': 'negative'}	
+716	no_biomarkers	
+717	no_biomarkers	
+718	failed	
+719	no_biomarkers	
+720	no_biomarkers	
+721	no_biomarkers	
+722	no_biomarkers	
+723	no_biomarkers	
+724	no_biomarkers	
+725	pos_neg_vous	{'BRCA1': 'positive'}	
+726	no_biomarkers	
+727	pos_neg_vous	{'GATA3 BRCA1 EGFR PD-L1 BRCA2 GATA2 ALK HRAS': 'vous'}	
+728	failed	
+729	pos_neg_vous	{'EGFR': 'vous'}	
+730	pos_neg_vous	{'ALK GATA2 PD-L1 HRAS BRCA1': 'vous'}	
+731	pos_neg_vous	{'GATA3 ALK GATA2 EGFR HRAS PD-L1': 'vous'}	
+732	failed	
+733	no_biomarkers	
+734	pos_neg_vous	{'PD-L1 EGFR': 'vous'}	
+735	no_biomarkers	(2+ 	
+736	no_biomarkers	
+737	no_biomarkers	
+738	failed	
+739	no_biomarkers	
+740	no_biomarkers	
+741	no_biomarkers	
+742	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	93%	(3+)	
+743	pos_neg_vous	{'BRCA1': 'positive'}	
+744	no_biomarkers	
+745	no_biomarkers	
+746	pos_neg_vous	{'ALK BRCA1 GATA3 BRCA2 EGFR': 'vous'}	
+747	pos_neg_vous	{'ALK GATA3 GATA2': 'vous'}	
+748	pos_neg_vous	{'PD-L1 BRCA2': 'vous'}	
+749	pos_neg_vous	{'GATA3 BRCA2 PD-L1 GATA2 HRAS': 'negtive'}	
+750	pos_neg_vous	{'GATA3 PD-L1': 'vous'}	
+751	failed	
+752	pos_neg_vous	{'PD-L1': 'negative'}	
+753	no_biomarkers	
+754	no_biomarkers	
+755	no_biomarkers	
+756	pos_neg_vous	{'BRCA2': 'negative'}	
+757	no_biomarkers	
+758	no_biomarkers	
+759	no_biomarkers	
+760	no_biomarkers	
+761	pos_neg_vous	{'PD-L1': 'negative'}	
+762	no_biomarkers	
+763	no_biomarkers	
+764	no_biomarkers	
+765	pos_neg_vous	{'BRCA1': 'vous'}	
+766	pos_neg_vous	{'BRCA2': 'positive'}	
+767	pos_neg_vous	{'HRAS': 'positive'}	
+768	pos_neg_vous	{'PD-L1': 'negative'}	
+769	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	50%	(2+)	
+770	failed	
+771	no_biomarkers	
+772	pos_neg_vous	{'EGFR': 'positive'}	
+773	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	21%	(2+)	
+774	pos_neg_vous	{'HRAS BRCA2 GATA3 PD-L1 BRCA1': 'negative'}	
+775	pos_neg_vous	{'BRCA1': 'positive'}	
+776	no_biomarkers	
+777	no_biomarkers	
+778	pos_neg_vous	{'GATA2 PD-L1 BRCA1 BRCA2 EGFR HRAS': 'vous'}	
+779	pos_neg_vous	{'PD-L1 GATA2 EGFR BRCA1 HRAS': 'vous'}	
+780	failed	
+781	no_biomarkers	
+782	no_biomarkers	
+783	no_biomarkers	
+784	no_biomarkers	
+785	failed	
+786	pos_neg_vous	{'ALK': 'negative'}	
+787	no_biomarkers	
+788	no_biomarkers	
+789	failed	
+790	no_biomarkers	
+791	pos_neg_vous	{'ALK PD-L1 GATA2': 'negative'}	
+792	pos_neg_vous	{'BRCA2 HRAS ALK BRCA1 GATA2 PD-L1': 'vous'}	
+793	pos_neg_vous	{'GATA2': 'positive'}	
+794	pos_neg_vous	{'BRCA1 GATA3 PD-L1': 'negative'}	
+795	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	43%	(2+)	
+796	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	69%	(2+)	
+797	no_biomarkers	
+798	no_biomarkers	
+799	no_biomarkers	
+800	pos_neg_vous	{'GATA2 ALK PD-L1 HRAS GATA3': 'negative'}	
+801	no_biomarkers	
+802	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	63%	(2+)	
+803	pos_neg_vous	{'GATA2': 'positive'}	
+804	no_biomarkers	
+805	failed	
+806	pos_neg_vous	{'BRCA1': 'positive'}	
+807	no_biomarkers	
+808	no_biomarkers	
+809	failed	
+810	no_biomarkers	
+811	no_biomarkers	
+812	pos_neg_vous	{'GATA3': 'positive'}	
+813	pos_neg_vous	{'EGFR': 'positive'}	
+814	no_biomarkers	
+815	pos_neg_vous	{'BRCA2': 'positive'}	
+816	failed	
+817	pos_neg_vous	{'PD-L1': 'negative'}	
+818	pos_neg_vous	{'BRCA2 PD-L1 GATA2': 'vous'}	
+819	no_biomarkers	
+820	no_biomarkers	
+821	no_biomarkers	
+822	no_biomarkers	
+823	failed	
+824	failed	
+825	pos_neg_vous	{'GATA2 BRCA1 EGFR PD-L1': 'negtive'}	
+826	no_biomarkers	
+827	no_biomarkers	
+828	pos_neg_vous	{'BRCA2 BRCA1 EGFR': 'vous'}	
+829	pos_neg_vous	{'BRCA2': 'negative'}	
+830	no_biomarkers	
+831	no_biomarkers	
+832	pos_neg_vous	{'EGFR PD-L1 HRAS BRCA2': 'vous'}	
+833	pos_neg_vous	{'ALK': 'negative'}	
+834	no_biomarkers	
+835	no_biomarkers	
+836	no_biomarkers	
+837	no_biomarkers	
+838	pos_neg_vous	{'PD-L1 GATA3': 'vous'}	
+839	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	10%	(1+)	
+840	pos_neg_vous	{'GATA2': 'negtive'}	
+841	pos_neg_vous	{'BRCA2 ALK EGFR GATA2 HRAS GATA3': 'vous'}	
+842	pos_neg_vous	{'BRCA1': 'negative'}	
+843	no_biomarkers	
+844	no_biomarkers	
+845	pos_neg_vous	{'GATA2': 'negative'}	
+846	pos_neg_vous	{'GATA3 EGFR HRAS BRCA1 GATA2 ALK BRCA2 PD-L1': 'vous'}	
+847	no_biomarkers	
+848	no_biomarkers	
+849	no_biomarkers	
+850	no_biomarkers	
+851	pos_neg_vous	{'EGFR BRCA2': 'vous'}	
+852	pos_neg_vous	{'EGFR GATA3 GATA2 HRAS': 'negative'}	
+853	no_biomarkers	
+854	pos_neg_vous	{'PD-L1 GATA3 BRCA2 ALK BRCA1 EGFR HRAS': 'vous'}	
+855	pos_neg_vous	{'ALK GATA2 GATA3 BRCA1 BRCA2 PD-L1 HRAS EGFR': 'vous'}	
+856	no_biomarkers	
+857	failed	
+858	pos_neg_vous	{'GATA3 HRAS BRCA1 BRCA2 GATA2 ALK': 'vous'}	
+859	no_biomarkers	(2+ 	
+860	pos_neg_vous	{'ALK EGFR': 'vous'}	
+861	no_biomarkers	
+862	no_biomarkers	
+863	no_biomarkers	
+864	no_biomarkers	
+865	pos_neg_vous	{'GATA3 GATA2': 'vous'}	
+866	no_biomarkers	
+867	failed	
+868	pos_neg_vous	{'PD-L1': 'positive'}	
+869	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	95%	(4+)	
+870	no_biomarkers	
+871	no_biomarkers	
+872	no_biomarkers	
+873	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	41%	(2+)	
+874	no_biomarkers	
+875	no_biomarkers	
+876	no_biomarkers	
+877	pos_neg_vous	{'EGFR BRCA2 HRAS': 'negative'}	
+878	pos_neg_vous	{'GATA3 EGFR': 'negative'}	
+879	no_biomarkers	
+880	pos_neg_vous	{'BRCA1 GATA2 HRAS GATA3 EGFR ALK': 'negative'}	
+881	pos_neg_vous	{'HRAS ALK BRCA1 GATA2 BRCA2 PD-L1 GATA3 EGFR': 'vous'}	
+882	no_biomarkers	
+883	pos_neg_vous	{'BRCA2 HRAS GATA3 ALK': 'negative'}	
+884	no_biomarkers	
+885	pos_neg_vous	{'BRCA1': 'positive'}	
+886	pos_neg_vous	{'BRCA1': 'positive'}	
+887	no_biomarkers	
+888	no_biomarkers	
+889	no_biomarkers	
+890	no_biomarkers	
+891	pos_neg_vous	{'GATA3': 'vous'}	
+892	no_biomarkers	
+893	no_biomarkers	
+894	no_biomarkers	
+895	no_biomarkers	
+896	pos_neg_vous	{'GATA3 ALK EGFR BRCA1 HRAS PD-L1 GATA2': 'vous'}	
+897	pos_neg_vous	{'PD-L1': 'positive'}	
+898	pos_neg_vous	{'BRCA1': 'negtive'}	
+899	pos_neg_vous	{'HRAS BRCA1 GATA2 GATA3 EGFR PD-L1 BRCA2': 'vous'}	
+900	pos_neg_vous	{'EGFR PD-L1 GATA3 BRCA1 ALK BRCA2': 'vous'}	
+901	failed	
+902	no_biomarkers	
+903	no_biomarkers	
+904	no_biomarkers	
+905	pos_neg_vous	{'EGFR GATA3': 'vous'}	
+906	pos_neg_vous	{'BRCA1': 'negative'}	
+907	pos_neg_vous	{'GATA2 BRCA1 ALK HRAS PD-L1 EGFR GATA3 BRCA2': 'vous'}	
+908	no_biomarkers	
+909	no_biomarkers	
+910	no_biomarkers	
+911	pos_neg_vous	{'PD-L1 BRCA2 GATA2 GATA3 EGFR HRAS': 'vous'}	
+912	no_biomarkers	(2+ 	
+913	no_biomarkers	
+914	no_biomarkers	
+915	no_biomarkers	
+916	pos_neg_vous	{'EGFR ALK GATA3': 'negtive'}	
+917	no_biomarkers	
+918	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	99%	(3+)	
+919	failed	
+920	failed	
+921	no_biomarkers	
+922	pos_neg_vous	{'PD-L1': 'positive'}	
+923	pos_neg_vous	{'GATA3': 'negative'}	
+924	no_biomarkers	
+925	pos_neg_vous	{'PD-L1 GATA2 BRCA2 BRCA1 ALK EGFR': 'vous'}	
+926	no_biomarkers	
+927	no_biomarkers	
+928	no_biomarkers	
+929	no_biomarkers	
+930	no_biomarkers	
+931	no_biomarkers	(2+ 	
+932	pos_neg_vous	{'BRCA1 ALK HRAS GATA3': 'vous'}	
+933	no_biomarkers	
+934	failed	
+935	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	58%	(2+)	
+936	pos_neg_vous	{'PD-L1 HRAS GATA3 ALK BRCA1': 'negative'}	
+937	failed	
+938	pos_neg_vous	{'BRCA1 GATA2 ALK EGFR': 'vous'}	
+939	no_biomarkers	
+940	pos_neg_vous	{'ALK PD-L1 BRCA2 GATA2 GATA3 HRAS EGFR': 'negtive'}	
+941	pos_neg_vous	{'PD-L1': 'positive'}	
+942	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	32%	(2+)	
+943	pos_neg_vous	{'GATA2 HRAS PD-L1 BRCA1 BRCA2 ALK': 'vous'}	
+944	no_biomarkers	
+945	pos_neg_vous	{'ALK GATA2': 'vous'}	
+946	pos_neg_vous	{'HRAS': 'vous'}	
+947	no_biomarkers	
+948	no_biomarkers	
+949	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	40%	(2+)	
+950	failed	
+951	pos_neg_vous	{'GATA2 ALK BRCA1 PD-L1': 'negtive'}	
+952	no_biomarkers	
+953	no_biomarkers	
+954	no_biomarkers	
+955	no_biomarkers	
+956	failed	
+957	no_biomarkers	
+958	no_biomarkers	
+959	pos_neg_vous	{'HRAS PD-L1 GATA2 EGFR GATA3': 'vous'}	
+960	no_biomarkers	
+961	no_biomarkers	
+962	no_biomarkers	
+963	pos_neg_vous	{'BRCA2 GATA3 EGFR GATA2 ALK BRCA1': 'vous'}	
+964	no_biomarkers	
+965	no_biomarkers	
+966	pos_neg_vous	{'PD-L1': 'vous'}	
+967	pos_neg_vous	{'ALK': 'vous'}	
+968	no_biomarkers	
+969	no_biomarkers	
+970	no_biomarkers	
+971	pos_neg_vous	{'BRCA2 EGFR': 'vous'}	
+972	pos_neg_vous	{'EGFR': 'negative'}	
+973	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	97%	(4+)	
+974	failed	
+975	no_biomarkers	
+976	pos_neg_vous	{'BRCA2 PD-L1 HRAS GATA2 GATA3 BRCA1': 'vous'}	
+977	no_biomarkers	
+978	no_biomarkers	
+979	no_biomarkers	
+980	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 2%	(0+)	
+981	pos_neg_vous	{'EGFR': 'negative'}	
+982	no_biomarkers	(2+ 	
+983	no_biomarkers	
+984	no_biomarkers	
+985	no_biomarkers	
+986	no_biomarkers	
+987	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 2%	(1+)	
+988	pos_neg_vous	{'HRAS': 'positive'}	
+989	no_biomarkers	(2+ 	
+990	no_biomarkers	
+991	no_biomarkers	
+992	no_biomarkers	
+993	failed	
+994	no_biomarkers	
+995	no_biomarkers	
+996	no_biomarkers	
+997	no_biomarkers	
+998	no_biomarkers	
+999	no_biomarkers	
+1000	no_biomarkers	
+1001	pos_neg_vous	{'PD-L1 GATA3 HRAS BRCA1 ALK BRCA2 GATA2 EGFR': 'vous'}	
+1002	no_biomarkers	
+1003	no_biomarkers	
+1004	pos_neg_vous	{'GATA3': 'negtive'}	
+1005	no_biomarkers	
+1006	pos_neg_vous	{'PD-L1 GATA2 EGFR': 'vous'}	
+1007	no_biomarkers	
+1008	no_biomarkers	
+1009	no_biomarkers	
+1010	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	36%	(2+)	
+1011	pos_neg_vous	{'HRAS GATA3 EGFR ALK': 'vous'}	
+1012	no_biomarkers	(2+ 	
+1013	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	45%	(2+)	
+1014	no_biomarkers	
+1015	pos_neg_vous	{'EGFR GATA3 BRCA2 HRAS ALK BRCA1 GATA2 PD-L1': 'vous'}	
+1016	no_biomarkers	
+1017	pos_neg_vous	{'GATA3 BRCA2': 'vous'}	
+1018	pos_neg_vous	{'EGFR': 'negative'}	
+1019	no_biomarkers	
+1020	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	34%	(2+)	
+1021	no_biomarkers	
+1022	no_biomarkers	
+1023	pos_neg_vous	{'HRAS GATA2': 'negtive'}	
+1024	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	91%	(5+)	
+1025	pos_neg_vous	{'BRCA2 BRCA1 GATA3 GATA2 PD-L1': 'negtive'}	
+1026	pos_neg_vous	{'ALK GATA3 BRCA2 GATA2 EGFR': 'vous'}	
+1027	no_biomarkers	
+1028	no_biomarkers	
+1029	no_biomarkers	
+1030	no_biomarkers	
+1031	pos_neg_vous	{'GATA2 BRCA2 EGFR': 'negative'}	
+1032	no_biomarkers	
+1033	failed	
+1034	no_biomarkers	
+1035	no_biomarkers	
+1036	no_biomarkers	
+1037	failed	
+1038	no_biomarkers	
+1039	no_biomarkers	
+1040	pos_neg_vous	{'GATA3': 'vous'}	
+1041	no_biomarkers	
+1042	no_biomarkers	
+1043	no_biomarkers	
+1044	pos_neg_vous	{'EGFR': 'negative'}	
+1045	pos_neg_vous	{'GATA2': 'negative'}	
+1046	no_biomarkers	
+1047	pos_neg_vous	{'HRAS PD-L1': 'negative'}	
+1048	pos_neg_vous	{'GATA2': 'negative'}	
+1049	no_biomarkers	
+1050	no_biomarkers	
+1051	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	99%	(3+)	
+1052	no_biomarkers	
+1053	pos_neg_vous	{'HRAS': 'positive'}	
+1054	failed	
+1055	no_biomarkers	
+1056	no_biomarkers	
+1057	no_biomarkers	
+1058	no_biomarkers	(2+ 	
+1059	pos_neg_vous	{'BRCA1 ALK BRCA2 PD-L1 GATA2': 'vous'}	
+1060	failed	
+1061	no_biomarkers	
+1062	pos_neg_vous	{'EGFR': 'negative'}	
+1063	no_biomarkers	
+1064	no_biomarkers	
+1065	pos_neg_vous	{'GATA3 BRCA2 PD-L1 BRCA1 GATA2': 'vous'}	
+1066	pos_neg_vous	{'ALK': 'negative'}	
+1067	pos_neg_vous	{'EGFR GATA3 ALK BRCA1 HRAS PD-L1 GATA2': 'vous'}	
+1068	failed	
+1069	failed	
+1070	no_biomarkers	
+1071	pos_neg_vous	{'ALK': 'negative'}	
+1072	pos_neg_vous	{'BRCA2': 'negative'}	
+1073	no_biomarkers	
+1074	no_biomarkers	
+1075	no_biomarkers	
+1076	no_biomarkers	
+1077	no_biomarkers	
+1078	no_biomarkers	
+1079	no_biomarkers	
+1080	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 0%	(0+)	
+1081	failed	
+1082	no_biomarkers	(2+ 	
+1083	no_biomarkers	
+1084	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	26%	(2+)	
+1085	pos_neg_vous	{'PD-L1': 'negative'}	
+1086	pos_neg_vous	{'PD-L1 BRCA2 GATA3 EGFR ALK': 'negtive'}	
+1087	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	98%	(3+)	
+1088	no_biomarkers	
+1089	no_biomarkers	
+1090	no_biomarkers	
+1091	no_biomarkers	
+1092	no_biomarkers	
+1093	no_biomarkers	
+1094	no_biomarkers	
+1095	pos_neg_vous	{'BRCA2': 'negative'}	
+1096	no_biomarkers	
+1097	failed	
+1098	no_biomarkers	
+1099	pos_neg_vous	{'EGFR BRCA2 GATA2': 'negtive'}	
+1100	no_biomarkers	
+1101	pos_neg_vous	{'GATA3 GATA2': 'negative'}	
+1102	pos_neg_vous	{'PD-L1 EGFR GATA3 HRAS GATA2 BRCA2': 'negtive'}	
+1103	pos_neg_vous	{'GATA3 GATA2 BRCA2': 'vous'}	
+1104	no_biomarkers	
+1105	pos_neg_vous	{'BRCA1 HRAS BRCA2 ALK GATA2 EGFR PD-L1': 'negative'}	
+1106	no_biomarkers	
+1107	no_biomarkers	
+1108	pos_neg_vous	{'GATA2 BRCA2 HRAS GATA3 PD-L1 EGFR': 'vous'}	
+1109	pos_neg_vous	{'ALK': 'positive'}	
+1110	no_biomarkers	
+1111	no_biomarkers	
+1112	no_biomarkers	
+1113	no_biomarkers	
+1114	no_biomarkers	
+1115	pos_neg_vous	{'BRCA1 HRAS': 'vous'}	
+1116	no_biomarkers	
+1117	failed	
+1118	no_biomarkers	
+1119	no_biomarkers	
+1120	no_biomarkers	
+1121	no_biomarkers	
+1122	no_biomarkers	
+1123	pos_neg_vous	{'PD-L1': 'negative'}	
+1124	failed	
+1125	no_biomarkers	
+1126	pos_neg_vous	{'PD-L1 GATA2 GATA3': 'vous'}	
+1127	no_biomarkers	
+1128	no_biomarkers	
+1129	failed	
+1130	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	83%	(2+)	
+1131	no_biomarkers	
+1132	no_biomarkers	
+1133	no_biomarkers	(2+ 	
+1134	pos_neg_vous	{'BRCA1 ALK GATA3 HRAS PD-L1 BRCA2 EGFR': 'vous'}	
+1135	pos_neg_vous	{'HRAS BRCA1 BRCA2 PD-L1 EGFR': 'vous'}	
+1136	no_biomarkers	
+1137	pos_neg_vous	{'EGFR GATA2 BRCA1': 'vous'}	
+1138	pos_neg_vous	{'ALK BRCA2 HRAS GATA2 EGFR GATA3': 'negative'}	
+1139	failed	
+1140	no_biomarkers	
+1141	no_biomarkers	
+1142	no_biomarkers	
+1143	no_biomarkers	
+1144	pos_neg_vous	{'BRCA2 EGFR BRCA1 GATA3 HRAS GATA2 PD-L1': 'negtive'}	
+1145	no_biomarkers	
+1146	no_biomarkers	
+1147	no_biomarkers	
+1148	no_biomarkers	
+1149	pos_neg_vous	{'HRAS ALK': 'negative'}	
+1150	no_biomarkers	
+1151	no_biomarkers	
+1152	no_biomarkers	
+1153	no_biomarkers	
+1154	no_biomarkers	
+1155	no_biomarkers	
+1156	pos_neg_vous	{'BRCA2': 'negative'}	
+1157	no_biomarkers	
+1158	pos_neg_vous	{'GATA2 GATA3 BRCA2 EGFR HRAS BRCA1 PD-L1': 'vous'}	
+1159	no_biomarkers	
+1160	pos_neg_vous	{'ALK': 'negative'}	
+1161	no_biomarkers	
+1162	failed	
+1163	no_biomarkers	
+1164	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	96%	(4+)	
+1165	pos_neg_vous	{'ALK HRAS GATA2 BRCA1 EGFR BRCA2 GATA3': 'vous'}	
+1166	pos_neg_vous	{'BRCA1': 'positive'}	
+1167	pos_neg_vous	{'GATA2': 'negative'}	
+1168	no_biomarkers	
+1169	pos_neg_vous	{'ALK': 'positive'}	
+1170	no_biomarkers	
+1171	pos_neg_vous	{'PD-L1 GATA2 GATA3': 'negative'}	
+1172	no_biomarkers	
+1173	pos_neg_vous	{'PD-L1': 'negtive'}	
+1174	no_biomarkers	
+1175	no_biomarkers	
+1176	pos_neg_vous	{'HRAS': 'negative'}	
+1177	no_biomarkers	
+1178	no_biomarkers	
+1179	pos_neg_vous	{'EGFR HRAS GATA2 ALK BRCA2 BRCA1 PD-L1': 'vous'}	
+1180	pos_neg_vous	{'HRAS': 'negative'}	
+1181	no_biomarkers	
+1182	pos_neg_vous	{'GATA2 BRCA1 PD-L1 GATA3 BRCA2 HRAS': 'vous'}	
+1183	pos_neg_vous	{'PD-L1 HRAS BRCA1': 'vous'}	
+1184	no_biomarkers	
+1185	no_biomarkers	
+1186	no_biomarkers	
+1187	pos_neg_vous	{'PD-L1 GATA2 GATA3 HRAS ALK': 'negtive'}	
+1188	no_biomarkers	(2+ 	
+1189	no_biomarkers	
+1190	pos_neg_vous	{'BRCA2 ALK HRAS': 'vous'}	
+1191	pos_neg_vous	{'BRCA1': 'positive'}	
+1192	pos_neg_vous	{'PD-L1 BRCA1 HRAS ALK': 'vous'}	
+1193	no_biomarkers	(2+ 	
+1194	no_biomarkers	
+1195	no_biomarkers	
+1196	no_biomarkers	
+1197	no_biomarkers	
+1198	pos_neg_vous	{'EGFR PD-L1 GATA2 HRAS BRCA2 ALK': 'negative'}	
+1199	no_biomarkers	
+1200	no_biomarkers	
+1201	pos_neg_vous	{'HRAS GATA2': 'negative'}	
+1202	no_biomarkers	
+1203	no_biomarkers	
+1204	pos_neg_vous	{'BRCA1': 'vous'}	
+1205	pos_neg_vous	{'GATA2 ALK HRAS BRCA2 PD-L1 EGFR GATA3': 'vous'}	
+1206	pos_neg_vous	{'BRCA1 GATA3 PD-L1 HRAS': 'vous'}	
+1207	no_biomarkers	
+1208	pos_neg_vous	{'GATA2 GATA3 HRAS': 'vous'}	
+1209	no_biomarkers	
+1210	no_biomarkers	
+1211	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	29%	(2+)	
+1212	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 2%	(0+)	
+1213	pos_neg_vous	{'BRCA1 EGFR GATA3 PD-L1 BRCA2': 'vous'}	
+1214	failed	
+1215	no_biomarkers	(2+ 	
+1216	no_biomarkers	
+1217	no_biomarkers	
+1218	no_biomarkers	
+1219	pos_neg_vous	{'BRCA1 PD-L1 BRCA2 GATA2 HRAS ALK GATA3 EGFR': 'vous'}	
+1220	no_biomarkers	
+1221	no_biomarkers	
+1222	no_biomarkers	
+1223	no_biomarkers	
+1224	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 2%	(0+)	
+1225	no_biomarkers	
+1226	no_biomarkers	
+1227	no_biomarkers	
+1228	no_biomarkers	
+1229	no_biomarkers	
+1230	no_biomarkers	
+1231	pos_neg_vous	{'GATA3 EGFR BRCA2': 'negative'}	
+1232	failed	
+1233	no_biomarkers	
+1234	pos_neg_vous	{'GATA3 BRCA1 HRAS BRCA2 EGFR ALK GATA2': 'vous'}	
+1235	pos_neg_vous	{'HRAS': 'negative'}	
+1236	pos_neg_vous	{'PD-L1': 'positive'}	
+1237	pos_neg_vous	{'PD-L1 GATA2 ALK': 'vous'}	
+1238	no_biomarkers	
+1239	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	99%	(3+)	
+1240	no_biomarkers	
+1241	no_biomarkers	
+1242	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	94%	(5+)	
+1243	pos_neg_vous	{'BRCA2': 'negative'}	
+1244	no_biomarkers	
+1245	no_biomarkers	
+1246	failed	
+1247	pos_neg_vous	{'ALK BRCA1 BRCA2': 'vous'}	
+1248	pos_neg_vous	{'EGFR': 'negative'}	
+1249	no_biomarkers	
+1250	pos_neg_vous	{'HRAS EGFR GATA3': 'negtive'}	
+1251	failed	
+1252	no_biomarkers	
+1253	pos_neg_vous	{'EGFR GATA2 HRAS BRCA1': 'negtive'}	
+1254	no_biomarkers	
+1255	pos_neg_vous	{'BRCA1 BRCA2 GATA2 HRAS PD-L1 EGFR GATA3': 'vous'}	
+1256	no_biomarkers	
+1257	no_biomarkers	
+1258	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 0%	(0+)	
+1259	pos_neg_vous	{'PD-L1': 'positive'}	
+1260	pos_neg_vous	{'HRAS BRCA2 ALK EGFR BRCA1': 'negtive'}	
+1261	pos_neg_vous	{'PD-L1': 'negtive'}	
+1262	no_biomarkers	
+1263	no_biomarkers	
+1264	pos_neg_vous	{'ALK': 'positive'}	
+1265	no_biomarkers	
+1266	no_biomarkers	
+1267	no_biomarkers	
+1268	pos_neg_vous	{'GATA2 HRAS PD-L1 BRCA1': 'negative'}	
+1269	failed	
+1270	pos_neg_vous	{'EGFR BRCA1 GATA3 BRCA2 HRAS PD-L1': 'negtive'}	
+1271	no_biomarkers	
+1272	no_biomarkers	
+1273	pos_neg_vous	{'PD-L1': 'positive'}	
+1274	no_biomarkers	
+1275	no_biomarkers	
+1276	no_biomarkers	
+1277	no_biomarkers	
+1278	no_biomarkers	
+1279	no_biomarkers	
+1280	no_biomarkers	
+1281	no_biomarkers	
+1282	pos_neg_vous	{'GATA2 PD-L1 GATA3 EGFR ALK': 'negtive'}	
+1283	no_biomarkers	
+1284	no_biomarkers	
+1285	pos_neg_vous	{'GATA3 BRCA1 HRAS PD-L1': 'vous'}	
+1286	pos_neg_vous	{'PD-L1': 'positive'}	
+1287	failed	
+1288	pos_neg_vous	{'ALK': 'negtive'}	
+1289	no_biomarkers	
+1290	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 1%	(1+)	
+1291	pos_neg_vous	{'BRCA1 EGFR BRCA2 PD-L1': 'vous'}	
+1292	no_biomarkers	
+1293	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 0%	(0+)	
+1294	no_biomarkers	
+1295	no_biomarkers	
+1296	no_biomarkers	
+1297	no_biomarkers	
+1298	pos_neg_vous	{'PD-L1 GATA2 BRCA1 ALK BRCA2 HRAS GATA3 EGFR': 'vous'}	
+1299	no_biomarkers	
+1300	pos_neg_vous	{'BRCA1 ALK': 'negtive'}	
+1301	no_biomarkers	
+1302	no_biomarkers	
+1303	no_biomarkers	
+1304	no_biomarkers	
+1305	no_biomarkers	
+1306	no_biomarkers	
+1307	no_biomarkers	
+1308	no_biomarkers	
+1309	no_biomarkers	
+1310	no_biomarkers	
+1311	no_biomarkers	
+1312	failed	
+1313	pos_neg_vous	{'ALK EGFR GATA2 BRCA2 BRCA1': 'vous'}	
+1314	pos_neg_vous	{'GATA2 BRCA2 ALK HRAS': 'vous'}	
+1315	no_biomarkers	
+1316	pos_neg_vous	{'GATA3 HRAS EGFR GATA2 PD-L1': 'negtive'}	
+1317	no_biomarkers	
+1318	no_biomarkers	
+1319	no_biomarkers	
+1320	no_biomarkers	(2+ 	
+1321	pos_neg_vous	{'GATA3': 'negative'}	
+1322	no_biomarkers	
+1323	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	28%	(2+)	
+1324	pos_neg_vous	{'BRCA1 HRAS PD-L1 BRCA2 EGFR': 'vous'}	
+1325	pos_neg_vous	{'BRCA2': 'negative'}	
+1326	no_biomarkers	
+1327	no_biomarkers	
+1328	pos_neg_vous	{'BRCA2': 'negative'}	
+1329	pos_neg_vous	{'PD-L1 BRCA2 ALK GATA2 EGFR': 'negative'}	
+1330	pos_neg_vous	{'PD-L1 BRCA2': 'vous'}	
+1331	pos_neg_vous	{'BRCA1 BRCA2 HRAS EGFR PD-L1 ALK GATA3': 'negtive'}	
+1332	no_biomarkers	
+1333	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	10%	(1+)	
+1334	pos_neg_vous	{'HRAS BRCA2 GATA3 ALK PD-L1': 'negative'}	
+1335	pos_neg_vous	{'EGFR BRCA1 GATA3': 'vous'}	
+1336	pos_neg_vous	{'BRCA1': 'negative'}	
+1337	no_biomarkers	
+1338	no_biomarkers	
+1339	pos_neg_vous	{'BRCA1': 'negative'}	
+1340	no_biomarkers	
+1341	failed	
+1342	pos_neg_vous	{'HRAS': 'positive'}	
+1343	no_biomarkers	
+1344	no_biomarkers	
+1345	no_biomarkers	
+1346	no_biomarkers	
+1347	no_biomarkers	
+1348	no_biomarkers	
+1349	pos_neg_vous	{'EGFR HRAS ALK GATA3 BRCA2 BRCA1': 'vous'}	
+1350	pos_neg_vous	{'GATA2 EGFR': 'negtive'}	
+1351	failed	
+1352	failed	
+1353	pos_neg_vous	{'PD-L1': 'vous'}	
+1354	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 5%	(1+)	
+1355	no_biomarkers	
+1356	no_biomarkers	
+1357	pos_neg_vous	{'BRCA1 BRCA2': 'vous'}	
+1358	no_biomarkers	
+1359	no_biomarkers	
+1360	pos_neg_vous	{'EGFR': 'positive'}	
+1361	pos_neg_vous	{'BRCA2 GATA3 BRCA1 HRAS PD-L1 GATA2': 'negtive'}	
+1362	failed	
+1363	pos_neg_vous	{'HRAS': 'negative'}	
+1364	pos_neg_vous	{'EGFR GATA2 BRCA2': 'vous'}	
+1365	no_biomarkers	
+1366	no_biomarkers	
+1367	no_biomarkers	
+1368	no_biomarkers	
+1369	no_biomarkers	
+1370	no_biomarkers	
+1371	pos_neg_vous	{'GATA3 BRCA2': 'negtive'}	
+1372	no_biomarkers	
+1373	failed	
+1374	pos_neg_vous	{'HRAS GATA2 BRCA1 PD-L1 GATA3': 'vous'}	
+1375	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	10%	(0+)	
+1376	pos_neg_vous	{'BRCA2': 'negative'}	
+1377	no_biomarkers	
+1378	failed	
+1379	pos_neg_vous	{'EGFR ALK HRAS': 'vous'}	
+1380	no_biomarkers	
+1381	failed	
+1382	no_biomarkers	
+1383	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	75%	(2+)	
+1384	no_biomarkers	
+1385	pos_neg_vous	{'GATA3': 'positive'}	
+1386	no_biomarkers	
+1387	failed	
+1388	no_biomarkers	
+1389	no_biomarkers	
+1390	pos_neg_vous	{'EGFR': 'vous'}	
+1391	pos_neg_vous	{'ALK': 'vous'}	
+1392	no_biomarkers	
+1393	pos_neg_vous	{'GATA2': 'negative'}	
+1394	pos_neg_vous	{'BRCA1 GATA2 BRCA2': 'negative'}	
+1395	no_biomarkers	
+1396	pos_neg_vous	{'HRAS': 'negative'}	
+1397	pos_neg_vous	{'BRCA2': 'positive'}	
+1398	pos_neg_vous	{'EGFR PD-L1 GATA2 HRAS BRCA2 ALK BRCA1': 'vous'}	
+1399	pos_neg_vous	{'HRAS PD-L1 ALK GATA3': 'vous'}	
+1400	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 8%	(1+)	
+1401	no_biomarkers	
+1402	pos_neg_vous	{'ALK PD-L1 HRAS GATA3 GATA2 BRCA2': 'vous'}	
+1403	pos_neg_vous	{'BRCA1 PD-L1 GATA2 BRCA2 ALK EGFR HRAS': 'vous'}	
+1404	failed	
+1405	pos_neg_vous	{'HRAS EGFR PD-L1 BRCA1 GATA2': 'negtive'}	
+1406	failed	
+1407	no_biomarkers	
+1408	no_biomarkers	
+1409	no_biomarkers	
+1410	pos_neg_vous	{'GATA2 PD-L1 BRCA2 HRAS': 'vous'}	
+1411	pos_neg_vous	{'BRCA2': 'negative'}	
+1412	pos_neg_vous	{'PD-L1': 'positive'}	
+1413	no_biomarkers	
+1414	no_biomarkers	
+1415	no_biomarkers	
+1416	failed	
+1417	no_biomarkers	
+1418	no_biomarkers	
+1419	no_biomarkers	
+1420	pos_neg_vous	{'GATA3 GATA2': 'negtive'}	
+1421	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 6%	(1+)	
+1422	failed	
+1423	no_biomarkers	
+1424	pos_neg_vous	{'HRAS PD-L1 BRCA2': 'vous'}	
+1425	pos_neg_vous	{'GATA2': 'vous'}	
+1426	pos_neg_vous	{'HRAS BRCA1 PD-L1 EGFR BRCA2': 'vous'}	
+1427	no_biomarkers	
+1428	no_biomarkers	
+1429	no_biomarkers	
+1430	pos_neg_vous	{'GATA3': 'positive'}	
+1431	no_biomarkers	
+1432	pos_neg_vous	{'GATA3 BRCA2 ALK EGFR HRAS BRCA1 GATA2': 'vous'}	
+1433	failed	
+1434	no_biomarkers	
+1435	pos_neg_vous	{'PD-L1 GATA2': 'negative'}	
+1436	pos_neg_vous	{'BRCA1': 'vous'}	
+1437	failed	
+1438	no_biomarkers	
+1439	no_biomarkers	
+1440	pos_neg_vous	{'BRCA2': 'positive'}	
+1441	no_biomarkers	
+1442	no_biomarkers	
+1443	no_biomarkers	
+1444	no_biomarkers	
+1445	no_biomarkers	
+1446	no_biomarkers	
+1447	failed	
+1448	no_biomarkers	
+1449	pos_neg_vous	{'GATA3 ALK GATA2 BRCA1 HRAS EGFR PD-L1': 'vous'}	
+1450	no_biomarkers	
+1451	no_biomarkers	
+1452	pos_neg_vous	{'ALK BRCA2 PD-L1': 'vous'}	
+1453	failed	
+1454	failed	
+1455	no_biomarkers	
+1456	no_biomarkers	
+1457	pos_neg_vous	{'GATA2': 'positive'}	
+1458	no_biomarkers	
+1459	no_biomarkers	
+1460	no_biomarkers	
+1461	no_biomarkers	
+1462	pos_neg_vous	{'PD-L1 BRCA1 HRAS BRCA2 EGFR GATA2 GATA3': 'vous'}	
+1463	pos_neg_vous	{'BRCA1 HRAS ALK EGFR GATA3 BRCA2 GATA2': 'vous'}	
+1464	no_biomarkers	
+1465	no_biomarkers	
+1466	no_biomarkers	
+1467	no_biomarkers	
+1468	pos_neg_vous	{'HRAS BRCA2': 'vous'}	
+1469	no_biomarkers	
+1470	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	24%	(2+)	
+1471	pos_neg_vous	{'BRCA2': 'negative'}	
+1472	no_biomarkers	
+1473	no_biomarkers	
+1474	no_biomarkers	
+1475	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	13%	(2+)	
+1476	no_biomarkers	
+1477	failed	
+1478	no_biomarkers	
+1479	no_biomarkers	
+1480	no_biomarkers	
+1481	no_biomarkers	
+1482	no_biomarkers	
+1483	pos_neg_vous	{'BRCA1 GATA2 BRCA2 EGFR PD-L1 HRAS': 'vous'}	
+1484	pos_neg_vous	{'BRCA2 PD-L1 HRAS EGFR': 'vous'}	
+1485	no_biomarkers	
+1486	no_biomarkers	
+1487	pos_neg_vous	{'GATA2': 'negative'}	
+1488	pos_neg_vous	{'GATA3 GATA2 BRCA2 ALK PD-L1 BRCA1 HRAS': 'vous'}	
+1489	no_biomarkers	(2+ 	
+1490	pos_neg_vous	{'BRCA2': 'positive'}	
+1491	failed	
+1492	no_biomarkers	
+1493	failed	
+1494	no_biomarkers	
+1495	failed	
+1496	pos_neg_vous	{'GATA3 PD-L1 ALK BRCA1 HRAS GATA2 EGFR': 'vous'}	
+1497	no_biomarkers	
+1498	pos_neg_vous	{'HRAS GATA3 GATA2 EGFR ALK BRCA2': 'negative'}	
+1499	no_biomarkers	
+1500	pos_neg_vous	{'HRAS': 'positive'}	
+1501	no_biomarkers	
+1502	pos_neg_vous	{'ALK': 'negative'}	
+1503	pos_neg_vous	{'ALK PD-L1 BRCA2 GATA2': 'vous'}	
+1504	no_biomarkers	
+1505	pos_neg_vous	{'GATA3': 'positive'}	
+1506	no_biomarkers	
+1507	no_biomarkers	
+1508	no_biomarkers	
+1509	no_biomarkers	
+1510	no_biomarkers	
+1511	no_biomarkers	
+1512	pos_neg_vous	{'GATA2': 'positive'}	
+1513	no_biomarkers	
+1514	no_biomarkers	
+1515	pos_neg_vous	{'EGFR HRAS BRCA1 BRCA2 GATA3': 'vous'}	
+1516	no_biomarkers	
+1517	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	93%	(5+)	
+1518	failed	
+1519	no_biomarkers	
+1520	failed	
+1521	pos_neg_vous	{'EGFR BRCA1 GATA2 BRCA2 GATA3 HRAS': 'negtive'}	
+1522	no_biomarkers	
+1523	pos_neg_vous	{'EGFR HRAS ALK GATA2': 'vous'}	
+1524	pos_neg_vous	{'HRAS BRCA1 EGFR GATA3': 'vous'}	
+1525	failed	
+1526	pos_neg_vous	{'GATA3 PD-L1 ALK BRCA2': 'vous'}	
+1527	no_biomarkers	
+1528	pos_neg_vous	{'HRAS': 'positive'}	
+1529	no_biomarkers	
+1530	no_biomarkers	
+1531	no_biomarkers	
+1532	pos_neg_vous	{'HRAS GATA2 GATA3': 'negtive'}	
+1533	pos_neg_vous	{'BRCA2 HRAS ALK BRCA1 EGFR GATA2 GATA3': 'vous'}	
+1534	no_biomarkers	
+1535	failed	
+1536	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	73%	(2+)	
+1537	failed	
+1538	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 6%	(1+)	
+1539	failed	
+1540	pos_neg_vous	{'GATA2 EGFR ALK GATA3 BRCA2 PD-L1 HRAS BRCA1': 'vous'}	
+1541	pos_neg_vous	{'EGFR BRCA1 GATA2': 'vous'}	
+1542	pos_neg_vous	{'GATA2': 'positive'}	
+1543	pos_neg_vous	{'GATA2 GATA3 BRCA1 BRCA2 PD-L1 EGFR HRAS': 'vous'}	
+1544	failed	
+1545	pos_neg_vous	{'EGFR PD-L1 GATA2 BRCA2 GATA3': 'vous'}	
+1546	pos_neg_vous	{'EGFR ALK BRCA2 GATA3': 'vous'}	
+1547	no_biomarkers	
+1548	pos_neg_vous	{'PD-L1 GATA2 BRCA1 BRCA2 ALK HRAS': 'vous'}	
+1549	pos_neg_vous	{'EGFR BRCA2 BRCA1 ALK': 'negative'}	
+1550	pos_neg_vous	{'BRCA2 EGFR BRCA1 GATA3': 'vous'}	
+1551	pos_neg_vous	{'ALK HRAS BRCA1 BRCA2 GATA2 PD-L1': 'negtive'}	
+1552	pos_neg_vous	{'BRCA2 PD-L1 GATA3 BRCA1 HRAS GATA2': 'vous'}	
+1553	no_biomarkers	
+1554	pos_neg_vous	{'BRCA2 GATA2 HRAS': 'vous'}	
+1555	no_biomarkers	
+1556	no_biomarkers	
+1557	no_biomarkers	
+1558	no_biomarkers	
+1559	pos_neg_vous	{'ALK GATA2 PD-L1': 'vous'}	
+1560	no_biomarkers	
+1561	no_biomarkers	
+1562	no_biomarkers	
+1563	pos_neg_vous	{'GATA2 PD-L1 HRAS BRCA1 BRCA2 ALK GATA3': 'negative'}	
+1564	no_biomarkers	
+1565	no_biomarkers	
+1566	pos_neg_vous	{'GATA2 HRAS ALK EGFR': 'vous'}	
+1567	failed	
+1568	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	35%	(2+)	
+1569	no_biomarkers	
+1570	no_biomarkers	
+1571	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	92%	(5+)	
+1572	pos_neg_vous	{'BRCA2': 'positive'}	
+1573	no_biomarkers	
+1574	no_biomarkers	
+1575	no_biomarkers	
+1576	pos_neg_vous	{'BRCA1 GATA3 EGFR GATA2': 'negtive'}	
+1577	no_biomarkers	
+1578	failed	
+1579	no_biomarkers	
+1580	no_biomarkers	
+1581	pos_neg_vous	{'ALK GATA2 GATA3 HRAS PD-L1': 'vous'}	
+1582	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	98%	(5+)	
+1583	no_biomarkers	
+1584	no_biomarkers	
+1585	no_biomarkers	
+1586	pos_neg_vous	{'ALK BRCA2 GATA3 EGFR PD-L1': 'vous'}	
+1587	no_biomarkers	
+1588	no_biomarkers	
+1589	no_biomarkers	
+1590	no_biomarkers	
+1591	no_biomarkers	
+1592	pos_neg_vous	{'PD-L1': 'positive'}	
+1593	pos_neg_vous	{'GATA3': 'positive'}	
+1594	no_biomarkers	
+1595	no_biomarkers	
+1596	no_biomarkers	
+1597	no_biomarkers	
+1598	pos_neg_vous	{'HRAS GATA3 PD-L1 ALK GATA2 EGFR': 'negtive'}	
+1599	no_biomarkers	
+1600	no_biomarkers	
+1601	pos_neg_vous	{'BRCA2': 'negative'}	
+1602	pos_neg_vous	{'HRAS GATA2 BRCA1 BRCA2 PD-L1 GATA3': 'vous'}	
+1603	pos_neg_vous	{'ALK HRAS BRCA1 PD-L1': 'vous'}	
+1604	no_biomarkers	
+1605	no_biomarkers	
+1606	pos_neg_vous	{'BRCA1 EGFR HRAS GATA3': 'vous'}	
+1607	no_biomarkers	
+1608	pos_neg_vous	{'HRAS PD-L1 GATA2 BRCA2 BRCA1 GATA3 EGFR': 'vous'}	
+1609	no_biomarkers	
+1610	pos_neg_vous	{'GATA2 PD-L1 BRCA2 BRCA1': 'negtive'}	
+1611	pos_neg_vous	{'GATA2 GATA3 BRCA1': 'negtive'}	
+1612	no_biomarkers	
+1613	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	94%	(4+)	
+1614	pos_neg_vous	{'GATA3 GATA2 PD-L1 ALK HRAS': 'vous'}	
+1615	no_biomarkers	
+1616	no_biomarkers	
+1617	no_biomarkers	
+1618	pos_neg_vous	{'PD-L1 HRAS BRCA2 GATA3 EGFR ALK': 'vous'}	
+1619	no_biomarkers	
+1620	pos_neg_vous	{'BRCA2': 'positive'}	
+1621	failed	
+1622	no_biomarkers	
+1623	no_biomarkers	
+1624	no_biomarkers	
+1625	no_biomarkers	
+1626	no_biomarkers	
+1627	no_biomarkers	
+1628	no_biomarkers	
+1629	pos_neg_vous	{'HRAS': 'negative'}	
+1630	no_biomarkers	(2+ 	
+1631	no_biomarkers	
+1632	pos_neg_vous	{'BRCA1 GATA2': 'negative'}	
+1633	pos_neg_vous	{'EGFR': 'negative'}	
+1634	pos_neg_vous	{'GATA3 BRCA2': 'negtive'}	
+1635	no_biomarkers	
+1636	no_biomarkers	
+1637	no_biomarkers	
+1638	no_biomarkers	
+1639	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	65%	(2+)	
+1640	no_biomarkers	
+1641	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	65%	(2+)	
+1642	no_biomarkers	
+1643	no_biomarkers	
+1644	failed	
+1645	no_biomarkers	
+1646	pos_neg_vous	{'BRCA2 BRCA1 PD-L1 EGFR GATA2 GATA3 ALK': 'negative'}	
+1647	pos_neg_vous	{'BRCA2': 'vous'}	
+1648	no_biomarkers	
+1649	no_biomarkers	
+1650	no_biomarkers	(2+ 	
+1651	no_biomarkers	
+1652	pos_neg_vous	{'HRAS EGFR': 'vous'}	
+1653	pos_neg_vous	{'PD-L1 EGFR': 'vous'}	
+1654	no_biomarkers	
+1655	pos_neg_vous	{'GATA2 BRCA2': 'vous'}	
+1656	no_biomarkers	
+1657	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 6%	(1+)	
+1658	no_biomarkers	
+1659	no_biomarkers	
+1660	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	47%	(2+)	
+1661	pos_neg_vous	{'PD-L1 HRAS BRCA1': 'negative'}	
+1662	pos_neg_vous	{'BRCA1 ALK': 'vous'}	
+1663	no_biomarkers	
+1664	no_biomarkers	
+1665	no_biomarkers	
+1666	no_biomarkers	
+1667	no_biomarkers	
+1668	no_biomarkers	
+1669	pos_neg_vous	{'GATA3 PD-L1 HRAS BRCA1 EGFR ALK': 'vous'}	
+1670	no_biomarkers	
+1671	no_biomarkers	
+1672	pos_neg_vous	{'ALK EGFR PD-L1 GATA3 BRCA2 BRCA1 HRAS': 'negtive'}	
+1673	failed	
+1674	pos_neg_vous	{'GATA3 ALK': 'vous'}	
+1675	no_biomarkers	
+1676	no_biomarkers	
+1677	pos_neg_vous	{'PD-L1 BRCA2': 'vous'}	
+1678	pos_neg_vous	{'HRAS ALK GATA2 BRCA2': 'negative'}	
+1679	no_biomarkers	
+1680	pos_neg_vous	{'EGFR BRCA1 HRAS GATA2': 'negtive'}	
+1681	pos_neg_vous	{'GATA2 ALK PD-L1 EGFR': 'negtive'}	
+1682	pos_neg_vous	{'GATA2 ALK': 'vous'}	
+1683	pos_neg_vous	{'PD-L1 ALK BRCA2 BRCA1 GATA2 EGFR': 'vous'}	
+1684	pos_neg_vous	{'BRCA2 BRCA1': 'vous'}	
+1685	no_biomarkers	
+1686	pos_neg_vous	{'HRAS': 'negative'}	
+1687	pos_neg_vous	{'GATA3': 'positive'}	
+1688	failed	
+1689	no_biomarkers	
+1690	no_biomarkers	
+1691	pos_neg_vous	{'GATA3 GATA2 ALK BRCA1': 'vous'}	
+1692	no_biomarkers	
+1693	failed	
+1694	no_biomarkers	
+1695	pos_neg_vous	{'GATA3 HRAS PD-L1 EGFR': 'negtive'}	
+1696	pos_neg_vous	{'GATA3 ALK EGFR': 'vous'}	
+1697	failed	
+1698	no_biomarkers	
+1699	failed	
+1700	pos_neg_vous	{'ALK EGFR GATA2': 'vous'}	
+1701	pos_neg_vous	{'GATA2 ALK PD-L1': 'negtive'}	
+1702	pos_neg_vous	{'BRCA2 HRAS GATA2 EGFR ALK PD-L1': 'negative'}	
+1703	pos_neg_vous	{'GATA3 GATA2 PD-L1 ALK BRCA1 EGFR BRCA2': 'vous'}	
+1704	pos_neg_vous	{'PD-L1': 'negative'}	
+1705	pos_neg_vous	{'EGFR': 'vous'}	
+1706	failed	
+1707	pos_neg_vous	{'HRAS': 'positive'}	
+1708	no_biomarkers	
+1709	no_biomarkers	
+1710	no_biomarkers	
+1711	failed	
+1712	pos_neg_vous	{'BRCA2': 'positive'}	
+1713	pos_neg_vous	{'GATA2 PD-L1 BRCA1 GATA3 BRCA2 ALK HRAS': 'negative'}	
+1714	no_biomarkers	
+1715	pos_neg_vous	{'HRAS PD-L1 EGFR BRCA2 BRCA1': 'negtive'}	
+1716	no_biomarkers	
+1717	no_biomarkers	
+1718	no_biomarkers	
+1719	failed	
+1720	no_biomarkers	
+1721	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	96%	(3+)	
+1722	pos_neg_vous	{'BRCA1': 'positive'}	
+1723	no_biomarkers	
+1724	pos_neg_vous	{'EGFR BRCA1 ALK': 'negtive'}	
+1725	pos_neg_vous	{'BRCA1': 'positive'}	
+1726	no_biomarkers	
+1727	failed	
+1728	no_biomarkers	
+1729	pos_neg_vous	{'BRCA1 GATA3 PD-L1 ALK GATA2 EGFR BRCA2': 'negative'}	
+1730	no_biomarkers	
+1731	pos_neg_vous	{'BRCA1 EGFR': 'negtive'}	
+1732	no_biomarkers	
+1733	no_biomarkers	
+1734	pos_neg_vous	{'BRCA2 PD-L1 HRAS ALK GATA2 GATA3 BRCA1': 'vous'}	
+1735	pos_neg_vous	{'ALK PD-L1 HRAS GATA2 BRCA2 EGFR': 'negtive'}	
+1736	no_biomarkers	
+1737	pos_neg_vous	{'HRAS': 'negative'}	
+1738	no_biomarkers	
+1739	no_biomarkers	
+1740	no_biomarkers	
+1741	failed	
+1742	no_biomarkers	
+1743	no_biomarkers	
+1744	no_biomarkers	
+1745	no_biomarkers	
+1746	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	93%	(4+)	
+1747	no_biomarkers	
+1748	no_biomarkers	
+1749	pos_neg_vous	{'BRCA1 BRCA2 ALK GATA2': 'negative'}	
+1750	no_biomarkers	
+1751	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	23%	(2+)	
+1752	no_biomarkers	
+1753	no_biomarkers	
+1754	no_biomarkers	
+1755	failed	
+1756	no_biomarkers	
+1757	no_biomarkers	
+1758	no_biomarkers	
+1759	no_biomarkers	
+1760	pos_neg_vous	{'GATA3': 'negative'}	
+1761	no_biomarkers	
+1762	no_biomarkers	
+1763	failed	
+1764	no_biomarkers	(2+ 	
+1765	pos_neg_vous	{'BRCA1': 'negative'}	
+1766	pos_neg_vous	{'BRCA2': 'negative'}	
+1767	pos_neg_vous	{'ALK GATA2': 'negative'}	
+1768	pos_neg_vous	{'BRCA1 GATA3': 'vous'}	
+1769	no_biomarkers	
+1770	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	10%	(1+)	
+1771	pos_neg_vous	{'BRCA2': 'negative'}	
+1772	pos_neg_vous	{'PD-L1': 'positive'}	
+1773	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 6%	(1+)	
+1774	failed	
+1775	no_biomarkers	
+1776	no_biomarkers	
+1777	failed	
+1778	pos_neg_vous	{'ALK': 'negative'}	
+1779	no_biomarkers	
+1780	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	92%	(4+)	
+1781	no_biomarkers	
+1782	no_biomarkers	
+1783	no_biomarkers	
+1784	failed	
+1785	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	24%	(2+)	
+1786	pos_neg_vous	{'GATA3 HRAS EGFR GATA2 PD-L1': 'negative'}	
+1787	no_biomarkers	
+1788	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	94%	(3+)	
+1789	no_biomarkers	
+1790	no_biomarkers	
+1791	no_biomarkers	
+1792	pos_neg_vous	{'PD-L1': 'positive'}	
+1793	failed	
+1794	no_biomarkers	
+1795	pos_neg_vous	{'BRCA1 EGFR HRAS GATA3': 'negtive'}	
+1796	no_biomarkers	
+1797	pos_neg_vous	{'GATA3 BRCA2': 'vous'}	
+1798	pos_neg_vous	{'ALK BRCA2 HRAS PD-L1 GATA2 BRCA1 EGFR GATA3': 'vous'}	
+1799	no_biomarkers	
+1800	failed	
+1801	failed	
+1802	pos_neg_vous	{'GATA3 PD-L1 ALK BRCA1 BRCA2 GATA2 HRAS': 'vous'}	
+1803	no_biomarkers	
+1804	no_biomarkers	
+1805	no_biomarkers	
+1806	no_biomarkers	
+1807	no_biomarkers	
+1808	no_biomarkers	
+1809	no_biomarkers	
+1810	pos_neg_vous	{'GATA2': 'negative'}	
+1811	no_biomarkers	
+1812	no_biomarkers	
+1813	no_biomarkers	
+1814	no_biomarkers	
+1815	pos_neg_vous	{'PD-L1 GATA2 GATA3 BRCA1 ALK BRCA2': 'vous'}	
+1816	no_biomarkers	
+1817	no_biomarkers	
+1818	no_biomarkers	
+1819	pos_neg_vous	{'ALK': 'positive'}	
+1820	no_biomarkers	
+1821	pos_neg_vous	{'PD-L1 EGFR HRAS GATA2 GATA3': 'negative'}	
+1822	no_biomarkers	
+1823	no_biomarkers	
+1824	failed	
+1825	no_biomarkers	
+1826	no_biomarkers	
+1827	pos_neg_vous	{'EGFR': 'negative'}	
+1828	pos_neg_vous	{'PD-L1': 'negative'}	
+1829	failed	
+1830	pos_neg_vous	{'GATA2 ALK GATA3 PD-L1 BRCA1': 'negtive'}	
+1831	no_biomarkers	
+1832	no_biomarkers	
+1833	no_biomarkers	
+1834	no_biomarkers	
+1835	failed	
+1836	no_biomarkers	
+1837	pos_neg_vous	{'PD-L1': 'positive'}	
+1838	pos_neg_vous	{'EGFR': 'positive'}	
+1839	pos_neg_vous	{'BRCA2 PD-L1 GATA2': 'vous'}	
+1840	no_biomarkers	
+1841	pos_neg_vous	{'GATA2': 'negative'}	
+1842	pos_neg_vous	{'BRCA2': 'negative'}	
+1843	no_biomarkers	
+1844	pos_neg_vous	{'ALK BRCA2 EGFR GATA2 PD-L1 GATA3': 'vous'}	
+1845	no_biomarkers	
+1846	no_biomarkers	
+1847	failed	
+1848	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 4%	(1+)	
+1849	no_biomarkers	
+1850	pos_neg_vous	{'EGFR GATA3 HRAS': 'negative'}	
+1851	pos_neg_vous	{'PD-L1': 'negative'}	
+1852	no_biomarkers	
+1853	pos_neg_vous	{'GATA3 ALK HRAS GATA2 BRCA1': 'negative'}	
+1854	failed	
+1855	no_biomarkers	
+1856	pos_neg_vous	{'ALK EGFR': 'negative'}	
+1857	pos_neg_vous	{'HRAS BRCA1 PD-L1': 'negative'}	
+1858	failed	
+1859	no_biomarkers	
+1860	no_biomarkers	
+1861	no_biomarkers	
+1862	failed	
+1863	no_biomarkers	
+1864	pos_neg_vous	{'PD-L1': 'negative'}	
+1865	no_biomarkers	
+1866	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	19%	(2+)	
+1867	pos_neg_vous	{'GATA2 PD-L1 EGFR ALK BRCA2': 'vous'}	
+1868	no_biomarkers	
+1869	failed	
+1870	pos_neg_vous	{'PD-L1 GATA3 EGFR HRAS': 'vous'}	
+1871	no_biomarkers	
+1872	no_biomarkers	
+1873	pos_neg_vous	{'GATA2': 'negative'}	
+1874	pos_neg_vous	{'GATA2 EGFR BRCA2 BRCA1 PD-L1 ALK GATA3': 'vous'}	
+1875	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	47%	(2+)	
+1876	failed	
+1877	no_biomarkers	(2+ 	
+1878	no_biomarkers	
+1879	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	99%	(3+)	
+1880	no_biomarkers	
+1881	no_biomarkers	
+1882	no_biomarkers	
+1883	failed	
+1884	pos_neg_vous	{'EGFR': 'positive'}	
+1885	no_biomarkers	
+1886	pos_neg_vous	{'GATA2 EGFR': 'negtive'}	
+1887	no_biomarkers	
+1888	pos_neg_vous	{'HRAS ALK GATA2 GATA3': 'vous'}	
+1889	pos_neg_vous	{'EGFR BRCA1': 'vous'}	
+1890	failed	
+1891	no_biomarkers	
+1892	pos_neg_vous	{'BRCA2 ALK PD-L1 GATA2 BRCA1 EGFR': 'negative'}	
+1893	pos_neg_vous	{'GATA3 BRCA2 GATA2 PD-L1': 'vous'}	
+1894	no_biomarkers	(2+ 	
+1895	no_biomarkers	
+1896	no_biomarkers	
+1897	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	71%	(2+)	
+1898	pos_neg_vous	{'BRCA1 PD-L1 ALK GATA2 HRAS': 'negative'}	
+1899	pos_neg_vous	{'ALK PD-L1 BRCA2': 'vous'}	
+1900	no_biomarkers	(2+ 	
+1901	pos_neg_vous	{'GATA3': 'negative'}	
+1902	failed	
+1903	no_biomarkers	
+1904	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	98%	(3+)	
+1905	pos_neg_vous	{'BRCA2': 'vous'}	
+1906	no_biomarkers	
+1907	pos_neg_vous	{'PD-L1 HRAS GATA2 BRCA2 EGFR GATA3 ALK': 'vous'}	
+1908	pos_neg_vous	{'GATA2 ALK GATA3 BRCA2': 'vous'}	
+1909	pos_neg_vous	{'PD-L1': 'positive'}	
+1910	no_biomarkers	
+1911	no_biomarkers	
+1912	no_biomarkers	
+1913	pos_neg_vous	{'ALK': 'positive'}	
+1914	pos_neg_vous	{'GATA2 PD-L1 BRCA1 ALK HRAS': 'vous'}	
+1915	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	00%	(3+)	
+1916	no_biomarkers	
+1917	no_biomarkers	
+1918	no_biomarkers	
+1919	pos_neg_vous	{'GATA2': 'negative'}	
+1920	no_biomarkers	
+1921	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	10%	(0+)	
+1922	pos_neg_vous	{'GATA2': 'negative'}	
+1923	pos_neg_vous	{'EGFR GATA3 PD-L1': 'negtive'}	
+1924	pos_neg_vous	{'GATA2 EGFR BRCA1 PD-L1 GATA3': 'vous'}	
+1925	pos_neg_vous	{'ALK GATA3 EGFR PD-L1 HRAS': 'vous'}	
+1926	pos_neg_vous	{'PD-L1 BRCA1 ALK': 'negative'}	
+1927	pos_neg_vous	{'BRCA2 BRCA1 GATA3': 'vous'}	
+1928	pos_neg_vous	{'PD-L1': 'vous'}	
+1929	no_biomarkers	
+1930	no_biomarkers	
+1931	no_biomarkers	
+1932	no_biomarkers	
+1933	no_biomarkers	
+1934	no_biomarkers	
+1935	pos_neg_vous	{'BRCA2 HRAS GATA3 ALK EGFR BRCA1 GATA2': 'vous'}	
+1936	no_biomarkers	
+1937	pos_neg_vous	{'PD-L1 HRAS GATA2 ALK BRCA2 EGFR': 'vous'}	
+1938	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	49%	(2+)	
+1939	pos_neg_vous	{'GATA3': 'negative'}	
+1940	no_biomarkers	
+1941	no_biomarkers	
+1942	no_biomarkers	
+1943	pos_neg_vous	{'BRCA1': 'positive'}	
+1944	no_biomarkers	
+1945	no_biomarkers	
+1946	no_biomarkers	
+1947	failed	
+1948	pos_neg_vous	{'EGFR BRCA1 GATA3 BRCA2 HRAS PD-L1': 'negative'}	
+1949	pos_neg_vous	{'HRAS GATA3 EGFR GATA2 ALK BRCA2 BRCA1': 'negtive'}	
+1950	pos_neg_vous	{'GATA2 BRCA2 HRAS ALK': 'negtive'}	
+1951	no_biomarkers	
+1952	no_biomarkers	
+1953	pos_neg_vous	{'ALK BRCA2 GATA2 EGFR PD-L1 HRAS GATA3': 'vous'}	
+1954	no_biomarkers	
+1955	failed	
+1956	pos_neg_vous	{'GATA2': 'positive'}	
+1957	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 7%	(1+)	
+1958	no_biomarkers	
+1959	no_biomarkers	
+1960	no_biomarkers	
+1961	no_biomarkers	
+1962	no_biomarkers	
+1963	no_biomarkers	
+1964	pos_neg_vous	{'GATA3 GATA2 PD-L1 ALK BRCA1 HRAS BRCA2': 'negtive'}	
+1965	no_biomarkers	
+1966	pos_neg_vous	{'BRCA1 ALK PD-L1 EGFR BRCA2 GATA3 HRAS': 'negative'}	
+1967	no_biomarkers	
+1968	pos_neg_vous	{'HRAS BRCA1 BRCA2 GATA3 ALK EGFR GATA2 PD-L1': 'vous'}	
+1969	pos_neg_vous	{'GATA3 BRCA2 ALK GATA2 PD-L1': 'vous'}	
+1970	pos_neg_vous	{'HRAS': 'negative'}	
+1971	pos_neg_vous	{'EGFR GATA3': 'vous'}	
+1972	pos_neg_vous	{'ALK BRCA2 GATA3 GATA2 EGFR BRCA1 HRAS PD-L1': 'vous'}	
+1973	no_biomarkers	
+1974	pos_neg_vous	{'GATA2 HRAS GATA3 BRCA2 PD-L1 EGFR': 'vous'}	
+1975	failed	
+1976	no_biomarkers	
+1977	no_biomarkers	
+1978	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 5%	(0+)	
+1979	pos_neg_vous	{'GATA3': 'vous'}	
+1980	pos_neg_vous	{'EGFR': 'positive'}	
+1981	no_biomarkers	
+1982	pos_neg_vous	{'GATA3 BRCA2 HRAS': 'negative'}	
+1983	pos_neg_vous	{'BRCA1 ALK PD-L1 GATA2 EGFR': 'vous'}	
+1984	no_biomarkers	
+1985	no_biomarkers	
+1986	no_biomarkers	
+1987	failed	
+1988	no_biomarkers	
+1989	no_biomarkers	
+1990	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	98%	(3+)	
+1991	no_biomarkers	
+1992	no_biomarkers	
+1993	pos_neg_vous	{'PD-L1': 'negative'}	
+1994	failed	
+1995	pos_neg_vous	{'BRCA1 GATA3 GATA2 PD-L1 ALK BRCA2 EGFR HRAS': 'vous'}	
+1996	no_biomarkers	
+1997	no_biomarkers	
+1998	pos_neg_vous	{'HRAS GATA2 BRCA2': 'vous'}	
+1999	no_biomarkers	
+2000	no_biomarkers	
+2001	pos_neg_vous	{'ALK': 'negtive'}	
+2002	pos_neg_vous	{'GATA2 PD-L1 HRAS GATA3 EGFR ALK': 'vous'}	
+2003	no_biomarkers	
+2004	no_biomarkers	
+2005	no_biomarkers	
+2006	no_biomarkers	
+2007	pos_neg_vous	{'GATA3': 'negative'}	
+2008	pos_neg_vous	{'HRAS BRCA1 GATA2 PD-L1 GATA3 ALK EGFR BRCA2': 'vous'}	
+2009	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 1%	(1+)	
+2010	no_biomarkers	
+2011	pos_neg_vous	{'GATA2 ALK BRCA1 BRCA2 HRAS GATA3 PD-L1': 'vous'}	
+2012	pos_neg_vous	{'GATA2 HRAS': 'negative'}	
+2013	no_biomarkers	
+2014	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	92%	(3+)	
+2015	no_biomarkers	
+2016	no_biomarkers	
+2017	pos_neg_vous	{'PD-L1 GATA2 HRAS BRCA2 ALK': 'vous'}	
+2018	no_biomarkers	
+2019	failed	
+2020	pos_neg_vous	{'BRCA2 EGFR ALK GATA3 GATA2 PD-L1': 'vous'}	
+2021	no_biomarkers	(2+ 	
+2022	pos_neg_vous	{'PD-L1 GATA2 ALK GATA3 HRAS': 'vous'}	
+2023	pos_neg_vous	{'BRCA2 GATA3 EGFR': 'vous'}	
+2024	pos_neg_vous	{'BRCA2 GATA2 PD-L1 GATA3 HRAS BRCA1 EGFR': 'negtive'}	
+2025	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 7%	(0+)	
+2026	pos_neg_vous	{'HRAS GATA2 EGFR BRCA1': 'vous'}	
+2027	pos_neg_vous	{'ALK GATA3 BRCA2 HRAS BRCA1 EGFR': 'vous'}	
+2028	no_biomarkers	
+2029	no_biomarkers	
+2030	pos_neg_vous	{'HRAS PD-L1 EGFR BRCA1 GATA2': 'vous'}	
+2031	failed	
+2032	no_biomarkers	
+2033	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	93%	(5+)	
+2034	no_biomarkers	
+2035	failed	
+2036	no_biomarkers	
+2037	pos_neg_vous	{'HRAS': 'positive'}	
+2038	no_biomarkers	(2+ 	
+2039	pos_neg_vous	{'ALK HRAS EGFR PD-L1': 'vous'}	
+2040	no_biomarkers	
+2041	pos_neg_vous	{'GATA2': 'positive'}	
+2042	no_biomarkers	
+2043	no_biomarkers	
+2044	pos_neg_vous	{'HRAS': 'negative'}	
+2045	pos_neg_vous	{'GATA2': 'negative'}	
+2046	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	35%	(2+)	
+2047	no_biomarkers	
+2048	no_biomarkers	
+2049	failed	
+2050	pos_neg_vous	{'PD-L1': 'negative'}	
+2051	no_biomarkers	
+2052	pos_neg_vous	{'PD-L1 EGFR GATA3 BRCA2 ALK': 'vous'}	
+2053	pos_neg_vous	{'GATA3 BRCA2 BRCA1': 'vous'}	
+2054	no_biomarkers	
+2055	no_biomarkers	
+2056	failed	
+2057	pos_neg_vous	{'ALK BRCA2': 'vous'}	
+2058	pos_neg_vous	{'BRCA1 EGFR HRAS ALK PD-L1 GATA2': 'vous'}	
+2059	pos_neg_vous	{'EGFR ALK HRAS PD-L1 GATA2 BRCA2': 'vous'}	
+2060	pos_neg_vous	{'GATA2': 'negative'}	
+2061	no_biomarkers	(2+ 	
+2062	no_biomarkers	
+2063	no_biomarkers	
+2064	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	89%	(2+)	
+2065	no_biomarkers	
+2066	pos_neg_vous	{'GATA3 EGFR ALK HRAS GATA2 BRCA2 PD-L1 BRCA1': 'vous'}	
+2067	no_biomarkers	
+2068	pos_neg_vous	{'HRAS BRCA2 PD-L1 GATA2 GATA3 ALK': 'vous'}	
+2069	failed	
+2070	no_biomarkers	
+2071	no_biomarkers	
+2072	no_biomarkers	
+2073	failed	
+2074	failed	
+2075	no_biomarkers	
+2076	no_biomarkers	
+2077	no_biomarkers	
+2078	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	95%	(5+)	
+2079	pos_neg_vous	{'BRCA2 HRAS BRCA1 EGFR GATA2 GATA3 ALK PD-L1': 'vous'}	
+2080	no_biomarkers	
+2081	failed	
+2082	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	80%	(2+)	
+2083	failed	
+2084	no_biomarkers	
+2085	pos_neg_vous	{'HRAS ALK': 'negtive'}	
+2086	no_biomarkers	
+2087	pos_neg_vous	{'EGFR HRAS': 'vous'}	
+2088	no_biomarkers	
+2089	no_biomarkers	
+2090	no_biomarkers	
+2091	no_biomarkers	
+2092	failed	
+2093	no_biomarkers	
+2094	no_biomarkers	
+2095	no_biomarkers	
+2096	no_biomarkers	
+2097	pos_neg_vous	{'HRAS ALK': 'vous'}	
+2098	pos_neg_vous	{'HRAS': 'negative'}	
+2099	pos_neg_vous	{'ALK EGFR GATA2 BRCA1 PD-L1 BRCA2': 'negative'}	
+2100	failed	
+2101	pos_neg_vous	{'EGFR GATA3 BRCA1 PD-L1': 'negative'}	
+2102	no_biomarkers	
+2103	failed	
+2104	no_biomarkers	
+2105	no_biomarkers	
+2106	pos_neg_vous	{'GATA3 PD-L1 EGFR GATA2 ALK BRCA2 HRAS': 'negative'}	
+2107	no_biomarkers	
+2108	failed	
+2109	pos_neg_vous	{'EGFR': 'negative'}	
+2110	no_biomarkers	
+2111	no_biomarkers	
+2112	no_biomarkers	
+2113	no_biomarkers	
+2114	pos_neg_vous	{'ALK': 'negative'}	
+2115	no_biomarkers	
+2116	no_biomarkers	
+2117	pos_neg_vous	{'ALK BRCA2 GATA2 EGFR PD-L1': 'vous'}	
+2118	no_biomarkers	
+2119	pos_neg_vous	{'BRCA1 EGFR PD-L1 BRCA2 GATA2': 'vous'}	
+2120	failed	
+2121	no_biomarkers	
+2122	pos_neg_vous	{'ALK': 'negative'}	
+2123	pos_neg_vous	{'EGFR BRCA2 GATA3': 'negative'}	
+2124	no_biomarkers	
+2125	pos_neg_vous	{'ALK': 'negative'}	
+2126	no_biomarkers	
+2127	no_biomarkers	
+2128	no_biomarkers	
+2129	no_biomarkers	
+2130	failed	
+2131	failed	
+2132	pos_neg_vous	{'BRCA1 PD-L1 HRAS GATA2 EGFR BRCA2': 'vous'}	
+2133	no_biomarkers	
+2134	no_biomarkers	(2+ 	
+2135	pos_neg_vous	{'BRCA2 BRCA1 PD-L1 GATA3': 'vous'}	
+2136	pos_neg_vous	{'PD-L1': 'positive'}	
+2137	pos_neg_vous	{'GATA3 EGFR BRCA2 HRAS GATA2 ALK PD-L1': 'vous'}	
+2138	no_biomarkers	
+2139	no_biomarkers	
+2140	failed	
+2141	no_biomarkers	
+2142	pos_neg_vous	{'HRAS GATA2 PD-L1 ALK GATA3 BRCA1': 'vous'}	
+2143	no_biomarkers	
+2144	no_biomarkers	
+2145	pos_neg_vous	{'BRCA2 PD-L1 HRAS': 'negative'}	
+2146	no_biomarkers	
+2147	no_biomarkers	
+2148	no_biomarkers	
+2149	no_biomarkers	
+2150	failed	
+2151	no_biomarkers	
+2152	failed	
+2153	pos_neg_vous	{'GATA3': 'negative'}	
+2154	failed	
+2155	pos_neg_vous	{'ALK': 'vous'}	
+2156	no_biomarkers	
+2157	no_biomarkers	
+2158	pos_neg_vous	{'PD-L1 ALK BRCA2 GATA3': 'vous'}	
+2159	no_biomarkers	
+2160	no_biomarkers	
+2161	no_biomarkers	
+2162	no_biomarkers	
+2163	no_biomarkers	
+2164	no_biomarkers	
+2165	no_biomarkers	
+2166	no_biomarkers	
+2167	pos_neg_vous	{'HRAS': 'negative'}	
+2168	no_biomarkers	
+2169	no_biomarkers	
+2170	pos_neg_vous	{'ALK BRCA1 EGFR HRAS PD-L1 GATA2': 'vous'}	
+2171	pos_neg_vous	{'HRAS BRCA2': 'negative'}	
+2172	pos_neg_vous	{'BRCA1': 'negative'}	
+2173	pos_neg_vous	{'ALK PD-L1 HRAS': 'vous'}	
+2174	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	94%	(4+)	
+2175	no_biomarkers	
+2176	pos_neg_vous	{'HRAS GATA2 GATA3 PD-L1': 'vous'}	
+2177	pos_neg_vous	{'HRAS BRCA2 EGFR GATA3': 'negtive'}	
+2178	pos_neg_vous	{'HRAS': 'negative'}	
+2179	pos_neg_vous	{'ALK': 'negative'}	
+2180	pos_neg_vous	{'GATA3': 'vous'}	
+2181	pos_neg_vous	{'BRCA1': 'positive'}	
+2182	no_biomarkers	
+2183	pos_neg_vous	{'BRCA2 ALK PD-L1 HRAS GATA2 GATA3 BRCA1': 'negative'}	
+2184	pos_neg_vous	{'HRAS GATA2': 'vous'}	
+2185	no_biomarkers	
+2186	pos_neg_vous	{'BRCA2': 'positive'}	
+2187	no_biomarkers	
+2188	failed	
+2189	pos_neg_vous	{'ALK HRAS': 'negative'}	
+2190	failed	
+2191	no_biomarkers	
+2192	no_biomarkers	
+2193	pos_neg_vous	{'HRAS': 'negative'}	
+2194	no_biomarkers	
+2195	no_biomarkers	
+2196	no_biomarkers	
+2197	no_biomarkers	
+2198	no_biomarkers	
+2199	no_biomarkers	
+2200	pos_neg_vous	{'HRAS GATA2 GATA3': 'negative'}	
+2201	failed	
+2202	pos_neg_vous	{'BRCA1': 'negative'}	
+2203	no_biomarkers	
+2204	pos_neg_vous	{'GATA3': 'negative'}	
+2205	pos_neg_vous	{'HRAS': 'positive'}	
+2206	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 8%	(1+)	
+2207	pos_neg_vous	{'GATA3 BRCA1 PD-L1 GATA2': 'vous'}	
+2208	pos_neg_vous	{'ALK': 'positive'}	
+2209	no_biomarkers	
+2210	pos_neg_vous	{'BRCA1': 'negative'}	
+2211	pos_neg_vous	{'HRAS GATA2 BRCA2 BRCA1 EGFR ALK': 'negtive'}	
+2212	no_biomarkers	
+2213	pos_neg_vous	{'PD-L1 BRCA2 GATA3 BRCA1 EGFR GATA2': 'negtive'}	
+2214	pos_neg_vous	{'ALK PD-L1 EGFR': 'vous'}	
+2215	no_biomarkers	
+2216	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	16%	(2+)	
+2217	no_biomarkers	
+2218	no_biomarkers	
+2219	pos_neg_vous	{'BRCA2 ALK PD-L1 HRAS': 'vous'}	
+2220	pos_neg_vous	{'BRCA2 PD-L1 BRCA1 GATA2 GATA3 HRAS EGFR': 'vous'}	
+2221	no_biomarkers	
+2222	no_biomarkers	
+2223	failed	
+2224	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	19%	(2+)	
+2225	no_biomarkers	
+2226	pos_neg_vous	{'PD-L1 GATA2': 'negative'}	
+2227	no_biomarkers	
+2228	no_biomarkers	
+2229	pos_neg_vous	{'EGFR PD-L1': 'vous'}	
+2230	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	99%	(3+)	
+2231	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 4%	(1+)	
+2232	pos_neg_vous	{'HRAS BRCA1 EGFR GATA2 PD-L1': 'vous'}	
+2233	no_biomarkers	
+2234	failed	
+2235	no_biomarkers	(2+ 	
+2236	no_biomarkers	
+2237	no_biomarkers	
+2238	no_biomarkers	
+2239	pos_neg_vous	{'ALK BRCA2 HRAS GATA2 BRCA1': 'vous'}	
+2240	no_biomarkers	
+2241	no_biomarkers	
+2242	no_biomarkers	
+2243	no_biomarkers	
+2244	pos_neg_vous	{'GATA2 BRCA1': 'negative'}	
+2245	pos_neg_vous	{'BRCA1 PD-L1': 'vous'}	
+2246	no_biomarkers	
+2247	no_biomarkers	
+2248	no_biomarkers	
+2249	no_biomarkers	
+2250	no_biomarkers	
+2251	no_biomarkers	
+2252	failed	
+2253	no_biomarkers	
+2254	failed	
+2255	no_biomarkers	
+2256	pos_neg_vous	{'PD-L1': 'positive'}	
+2257	pos_neg_vous	{'BRCA1': 'positive'}	
+2258	no_biomarkers	
+2259	no_biomarkers	
+2260	no_biomarkers	
+2261	pos_neg_vous	{'BRCA2 HRAS PD-L1 GATA3 EGFR GATA2 BRCA1': 'vous'}	
+2262	no_biomarkers	
+2263	pos_neg_vous	{'GATA2 BRCA2 PD-L1 BRCA1': 'vous'}	
+2264	no_biomarkers	
+2265	failed	
+2266	no_biomarkers	
+2267	failed	
+2268	pos_neg_vous	{'HRAS': 'negative'}	
+2269	failed	
+2270	no_biomarkers	
+2271	no_biomarkers	
+2272	failed	
+2273	no_biomarkers	
+2274	pos_neg_vous	{'ALK': 'negative'}	
+2275	pos_neg_vous	{'EGFR': 'negative'}	
+2276	no_biomarkers	
+2277	pos_neg_vous	{'GATA3': 'positive'}	
+2278	pos_neg_vous	{'GATA2 BRCA1': 'vous'}	
+2279	no_biomarkers	
+2280	no_biomarkers	
+2281	failed	
+2282	pos_neg_vous	{'BRCA1': 'positive'}	
+2283	no_biomarkers	
+2284	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	65%	(2+)	
+2285	no_biomarkers	
+2286	no_biomarkers	
+2287	no_biomarkers	
+2288	pos_neg_vous	{'PD-L1 BRCA1 GATA2': 'vous'}	
+2289	pos_neg_vous	{'HRAS': 'positive'}	
+2290	failed	
+2291	pos_neg_vous	{'BRCA1 BRCA2 GATA3': 'vous'}	
+2292	pos_neg_vous	{'PD-L1': 'negative'}	
+2293	no_biomarkers	
+2294	pos_neg_vous	{'PD-L1 BRCA2 HRAS GATA3 ALK': 'vous'}	
+2295	no_biomarkers	
+2296	no_biomarkers	
+2297	no_biomarkers	
+2298	failed	
+2299	pos_neg_vous	{'BRCA2 HRAS': 'negtive'}	
+2300	no_biomarkers	
+2301	failed	
+2302	no_biomarkers	
+2303	no_biomarkers	
+2304	no_biomarkers	
+2305	no_biomarkers	
+2306	failed	
+2307	failed	
+2308	no_biomarkers	
+2309	pos_neg_vous	{'ALK HRAS EGFR GATA3 BRCA1': 'negative'}	
+2310	no_biomarkers	
+2311	no_biomarkers	
+2312	no_biomarkers	
+2313	pos_neg_vous	{'EGFR': 'vous'}	
+2314	no_biomarkers	
+2315	no_biomarkers	
+2316	no_biomarkers	
+2317	no_biomarkers	
+2318	pos_neg_vous	{'HRAS GATA2': 'vous'}	
+2319	pos_neg_vous	{'EGFR': 'positive'}	
+2320	pos_neg_vous	{'HRAS': 'positive'}	
+2321	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	91%	(5+)	
+2322	pos_neg_vous	{'EGFR ALK GATA3': 'vous'}	
+2323	pos_neg_vous	{'ALK BRCA2 EGFR BRCA1 PD-L1': 'negative'}	
+2324	no_biomarkers	
+2325	no_biomarkers	
+2326	no_biomarkers	
+2327	failed	
+2328	pos_neg_vous	{'PD-L1': 'positive'}	
+2329	pos_neg_vous	{'GATA3': 'negative'}	
+2330	pos_neg_vous	{'BRCA2': 'negative'}	
+2331	failed	
+2332	no_biomarkers	
+2333	no_biomarkers	
+2334	no_biomarkers	
+2335	pos_neg_vous	{'GATA2 HRAS BRCA2 ALK': 'negative'}	
+2336	no_biomarkers	
+2337	no_biomarkers	
+2338	pos_neg_vous	{'BRCA1': 'positive'}	
+2339	pos_neg_vous	{'PD-L1': 'negative'}	
+2340	no_biomarkers	
+2341	no_biomarkers	
+2342	pos_neg_vous	{'BRCA2': 'vous'}	
+2343	no_biomarkers	
+2344	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 4%	(1+)	
+2345	no_biomarkers	
+2346	pos_neg_vous	{'PD-L1 BRCA1 HRAS ALK': 'vous'}	
+2347	no_biomarkers	
+2348	pos_neg_vous	{'HRAS ALK': 'negative'}	
+2349	pos_neg_vous	{'BRCA2 BRCA1': 'vous'}	
+2350	pos_neg_vous	{'ALK': 'positive'}	
+2351	no_biomarkers	
+2352	no_biomarkers	
+2353	pos_neg_vous	{'HRAS EGFR BRCA2 GATA3 ALK': 'negative'}	
+2354	failed	
+2355	pos_neg_vous	{'PD-L1': 'negative'}	
+2356	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 1%	(1+)	
+2357	no_biomarkers	
+2358	no_biomarkers	
+2359	no_biomarkers	
+2360	no_biomarkers	
+2361	failed	
+2362	no_biomarkers	
+2363	pos_neg_vous	{'GATA2': 'vous'}	
+2364	no_biomarkers	
+2365	failed	
+2366	no_biomarkers	
+2367	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	37%	(2+)	
+2368	no_biomarkers	
+2369	pos_neg_vous	{'EGFR ALK GATA2': 'negtive'}	
+2370	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	36%	(2+)	
+2371	no_biomarkers	
+2372	no_biomarkers	
+2373	failed	
+2374	no_biomarkers	
+2375	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	10%	(1+)	
+2376	no_biomarkers	
+2377	pos_neg_vous	{'EGFR': 'negative'}	
+2378	no_biomarkers	
+2379	no_biomarkers	
+2380	pos_neg_vous	{'BRCA1 EGFR PD-L1 HRAS ALK GATA2': 'vous'}	
+2381	no_biomarkers	
+2382	pos_neg_vous	{'EGFR BRCA1 PD-L1 ALK BRCA2 HRAS GATA2': 'vous'}	
+2383	pos_neg_vous	{'EGFR': 'positive'}	
+2384	no_biomarkers	
+2385	no_biomarkers	
+2386	no_biomarkers	
+2387	pos_neg_vous	{'GATA3 PD-L1 GATA2': 'negative'}	
+2388	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	95%	(4+)	
+2389	pos_neg_vous	{'GATA2': 'negative'}	
+2390	pos_neg_vous	{'PD-L1 GATA2 ALK EGFR HRAS GATA3': 'negtive'}	
+2391	no_biomarkers	
+2392	no_biomarkers	
+2393	pos_neg_vous	{'EGFR': 'negative'}	
+2394	no_biomarkers	
+2395	no_biomarkers	
+2396	no_biomarkers	
+2397	no_biomarkers	
+2398	no_biomarkers	
+2399	no_biomarkers	
+2400	pos_neg_vous	{'GATA2 BRCA2 GATA3 BRCA1 HRAS ALK EGFR PD-L1': 'vous'}	
+2401	pos_neg_vous	{'PD-L1 BRCA1 GATA3 EGFR': 'negative'}	
+2402	no_biomarkers	
+2403	no_biomarkers	
+2404	no_biomarkers	
+2405	pos_neg_vous	{'ALK BRCA2 BRCA1 EGFR GATA3 GATA2 HRAS': 'negative'}	
+2406	pos_neg_vous	{'GATA3': 'negative'}	
+2407	no_biomarkers	
+2408	pos_neg_vous	{'BRCA2 HRAS EGFR GATA3 BRCA1 ALK GATA2': 'negtive'}	
+2409	failed	
+2410	no_biomarkers	
+2411	no_biomarkers	
+2412	no_biomarkers	
+2413	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	90%	(3+)	
+2414	pos_neg_vous	{'BRCA2 PD-L1 HRAS ALK BRCA1 GATA3 GATA2': 'vous'}	
+2415	no_biomarkers	
+2416	no_biomarkers	
+2417	no_biomarkers	
+2418	no_biomarkers	
+2419	no_biomarkers	
+2420	pos_neg_vous	{'ALK': 'negative'}	
+2421	no_biomarkers	
+2422	no_biomarkers	
+2423	no_biomarkers	
+2424	failed	
+2425	no_biomarkers	
+2426	no_biomarkers	
+2427	no_biomarkers	
+2428	no_biomarkers	
+2429	pos_neg_vous	{'BRCA1 GATA2 EGFR HRAS BRCA2 ALK': 'negative'}	
+2430	pos_neg_vous	{'GATA3 GATA2 HRAS ALK PD-L1 BRCA2 EGFR BRCA1': 'vous'}	
+2431	no_biomarkers	
+2432	no_biomarkers	
+2433	no_biomarkers	
+2434	pos_neg_vous	{'PD-L1 ALK': 'vous'}	
+2435	pos_neg_vous	{'GATA3': 'negative'}	
+2436	no_biomarkers	
+2437	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	80%	(2+)	
+2438	pos_neg_vous	{'ALK GATA3 GATA2 BRCA1 BRCA2 EGFR HRAS PD-L1': 'vous'}	
+2439	no_biomarkers	
+2440	pos_neg_vous	{'GATA3': 'positive'}	
+2441	no_biomarkers	
+2442	pos_neg_vous	{'PD-L1': 'positive'}	
+2443	no_biomarkers	
+2444	no_biomarkers	
+2445	no_biomarkers	
+2446	failed	
+2447	no_biomarkers	
+2448	no_biomarkers	
+2449	pos_neg_vous	{'BRCA2 GATA3 EGFR BRCA1 HRAS GATA2 ALK PD-L1': 'vous'}	
+2450	pos_neg_vous	{'ALK': 'vous'}	
+2451	no_biomarkers	
+2452	no_biomarkers	
+2453	no_biomarkers	
+2454	pos_neg_vous	{'GATA3': 'negative'}	
+2455	no_biomarkers	
+2456	failed	
+2457	no_biomarkers	
+2458	pos_neg_vous	{'EGFR': 'positive'}	
+2459	no_biomarkers	
+2460	pos_neg_vous	{'GATA3': 'negative'}	
+2461	pos_neg_vous	{'GATA3': 'negative'}	
+2462	pos_neg_vous	{'BRCA1': 'negative'}	
+2463	no_biomarkers	(2+ 	
+2464	no_biomarkers	
+2465	no_biomarkers	
+2466	pos_neg_vous	{'BRCA1 HRAS ALK BRCA2': 'vous'}	
+2467	pos_neg_vous	{'BRCA2 ALK BRCA1 GATA2 HRAS PD-L1': 'vous'}	
+2468	pos_neg_vous	{'HRAS BRCA1 PD-L1 ALK EGFR BRCA2': 'negative'}	
+2469	no_biomarkers	
+2470	no_biomarkers	
+2471	pos_neg_vous	{'PD-L1': 'negative'}	
+2472	no_biomarkers	
+2473	pos_neg_vous	{'PD-L1 GATA3 ALK GATA2 BRCA1 HRAS BRCA2 EGFR': 'vous'}	
+2474	pos_neg_vous	{'BRCA1 ALK EGFR PD-L1 BRCA2': 'vous'}	
+2475	no_biomarkers	
+2476	no_biomarkers	
+2477	failed	
+2478	pos_neg_vous	{'HRAS GATA2': 'negtive'}	
+2479	no_biomarkers	
+2480	no_biomarkers	(2+ 	
+2481	no_biomarkers	
+2482	pos_neg_vous	{'GATA2': 'negative'}	
+2483	no_biomarkers	
+2484	pos_neg_vous	{'GATA3 BRCA1 BRCA2 ALK GATA2': 'negtive'}	
+2485	failed	
+2486	no_biomarkers	
+2487	pos_neg_vous	{'GATA3': 'negtive'}	
+2488	no_biomarkers	
+2489	pos_neg_vous	{'GATA3': 'positive'}	
+2490	no_biomarkers	
+2491	no_biomarkers	
+2492	pos_neg_vous	{'BRCA1 BRCA2': 'vous'}	
+2493	pos_neg_vous	{'ALK BRCA1 EGFR BRCA2 HRAS': 'negtive'}	
+2494	pos_neg_vous	{'GATA3 EGFR BRCA2 GATA2': 'negtive'}	
+2495	pos_neg_vous	{'EGFR BRCA1 ALK GATA2 BRCA2 GATA3': 'vous'}	
+2496	failed	
+2497	no_biomarkers	
+2498	no_biomarkers	
+2499	no_biomarkers	
+2500	no_biomarkers	
+2501	failed	
+2502	no_biomarkers	
+2503	no_biomarkers	
+2504	no_biomarkers	
+2505	no_biomarkers	
+2506	pos_neg_vous	{'BRCA1': 'vous'}	
+2507	no_biomarkers	
+2508	no_biomarkers	
+2509	pos_neg_vous	{'ALK': 'vous'}	
+2510	no_biomarkers	
+2511	no_biomarkers	
+2512	no_biomarkers	
+2513	failed	
+2514	no_biomarkers	
+2515	pos_neg_vous	{'PD-L1 HRAS BRCA2 GATA2': 'vous'}	
+2516	pos_neg_vous	{'GATA2 ALK EGFR HRAS': 'vous'}	
+2517	failed	
+2518	pos_neg_vous	{'BRCA2': 'positive'}	
+2519	no_biomarkers	
+2520	failed	
+2521	failed	
+2522	no_biomarkers	
+2523	no_biomarkers	
+2524	pos_neg_vous	{'HRAS BRCA1 GATA3 ALK PD-L1 EGFR BRCA2': 'vous'}	
+2525	pos_neg_vous	{'ALK': 'positive'}	
+2526	no_biomarkers	
+2527	pos_neg_vous	{'BRCA2 PD-L1 BRCA1 HRAS': 'negtive'}	
+2528	pos_neg_vous	{'HRAS GATA2': 'vous'}	
+2529	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	51%	(2+)	
+2530	no_biomarkers	
+2531	no_biomarkers	
+2532	no_biomarkers	
+2533	no_biomarkers	
+2534	no_biomarkers	
+2535	no_biomarkers	
+2536	no_biomarkers	
+2537	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 5%	(0+)	
+2538	no_biomarkers	
+2539	no_biomarkers	
+2540	no_biomarkers	
+2541	no_biomarkers	
+2542	no_biomarkers	
+2543	no_biomarkers	
+2544	pos_neg_vous	{'GATA2 HRAS GATA3 BRCA2 EGFR PD-L1': 'vous'}	
+2545	pos_neg_vous	{'HRAS': 'positive'}	
+2546	no_biomarkers	
+2547	pos_neg_vous	{'BRCA1': 'positive'}	
+2548	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 6%	(1+)	
+2549	pos_neg_vous	{'BRCA2': 'negative'}	
+2550	pos_neg_vous	{'BRCA2 GATA3 PD-L1 HRAS GATA2 ALK BRCA1': 'vous'}	
+2551	no_biomarkers	
+2552	no_biomarkers	
+2553	no_biomarkers	
+2554	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	94%	(4+)	
+2555	no_biomarkers	
+2556	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	90%	(4+)	
+2557	pos_neg_vous	{'EGFR BRCA2': 'vous'}	
+2558	pos_neg_vous	{'BRCA2 HRAS GATA2 GATA3 ALK PD-L1 EGFR': 'vous'}	
+2559	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	96%	(4+)	
+2560	no_biomarkers	
+2561	no_biomarkers	(2+ 	
+2562	no_biomarkers	
+2563	failed	
+2564	pos_neg_vous	{'HRAS GATA2': 'vous'}	
+2565	no_biomarkers	
+2566	no_biomarkers	
+2567	pos_neg_vous	{'BRCA2 BRCA1 PD-L1 GATA3 EGFR': 'vous'}	
+2568	pos_neg_vous	{'BRCA1 HRAS PD-L1 ALK EGFR': 'negtive'}	
+2569	no_biomarkers	
+2570	pos_neg_vous	{'GATA3': 'negative'}	
+2571	no_biomarkers	
+2572	no_biomarkers	
+2573	no_biomarkers	
+2574	no_biomarkers	
+2575	no_biomarkers	
+2576	no_biomarkers	
+2577	no_biomarkers	
+2578	pos_neg_vous	{'PD-L1 HRAS GATA2 EGFR GATA3 ALK': 'vous'}	
+2579	pos_neg_vous	{'PD-L1 BRCA1': 'vous'}	
+2580	pos_neg_vous	{'PD-L1': 'vous'}	
+2581	no_biomarkers	
+2582	no_biomarkers	
+2583	failed	
+2584	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 2%	(1+)	
+2585	pos_neg_vous	{'BRCA1 HRAS GATA3 EGFR': 'vous'}	
+2586	no_biomarkers	
+2587	failed	
+2588	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	28%	(2+)	
+2589	no_biomarkers	
+2590	no_biomarkers	
+2591	pos_neg_vous	{'ALK GATA2 GATA3 EGFR BRCA1 HRAS BRCA2': 'vous'}	
+2592	pos_neg_vous	{'HRAS BRCA2 GATA3 ALK EGFR': 'vous'}	
+2593	pos_neg_vous	{'GATA3': 'positive'}	
+2594	no_biomarkers	
+2595	no_biomarkers	
+2596	no_biomarkers	
+2597	failed	
+2598	no_biomarkers	
+2599	no_biomarkers	
+2600	failed	
+2601	no_biomarkers	
+2602	failed	
+2603	no_biomarkers	
+2604	pos_neg_vous	{'BRCA2 BRCA1 ALK PD-L1 GATA2': 'negtive'}	
+2605	pos_neg_vous	{'HRAS GATA2 BRCA1 ALK': 'vous'}	
+2606	no_biomarkers	
+2607	no_biomarkers	
+2608	failed	
+2609	no_biomarkers	
+2610	no_biomarkers	
+2611	no_biomarkers	
+2612	no_biomarkers	
+2613	no_biomarkers	
+2614	pos_neg_vous	{'BRCA2 GATA3 PD-L1 BRCA1 ALK HRAS EGFR': 'vous'}	
+2615	no_biomarkers	
+2616	no_biomarkers	
+2617	pos_neg_vous	{'PD-L1': 'positive'}	
+2618	no_biomarkers	
+2619	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 7%	(1+)	
+2620	no_biomarkers	
+2621	no_biomarkers	
+2622	pos_neg_vous	{'HRAS BRCA2 PD-L1 EGFR BRCA1 ALK GATA2 GATA3': 'vous'}	
+2623	no_biomarkers	
+2624	pos_neg_vous	{'GATA3': 'vous'}	
+2625	no_biomarkers	
+2626	failed	
+2627	pos_neg_vous	{'BRCA2 HRAS BRCA1 EGFR ALK GATA3': 'negtive'}	
+2628	failed	
+2629	pos_neg_vous	{'PD-L1': 'positive'}	
+2630	no_biomarkers	
+2631	no_biomarkers	
+2632	no_biomarkers	
+2633	no_biomarkers	
+2634	pos_neg_vous	{'PD-L1 GATA3 GATA2': 'vous'}	
+2635	failed	
+2636	pos_neg_vous	{'GATA2 GATA3 PD-L1': 'vous'}	
+2637	no_biomarkers	
+2638	no_biomarkers	
+2639	no_biomarkers	
+2640	pos_neg_vous	{'HRAS ALK EGFR': 'vous'}	
+2641	no_biomarkers	
+2642	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	90%	(4+)	
+2643	no_biomarkers	
+2644	no_biomarkers	(2+ 	
+2645	pos_neg_vous	{'HRAS': 'negative'}	
+2646	no_biomarkers	
+2647	no_biomarkers	
+2648	failed	
+2649	pos_neg_vous	{'EGFR GATA2': 'vous'}	
+2650	pos_neg_vous	{'GATA2 PD-L1 BRCA2 HRAS EGFR GATA3 ALK': 'negative'}	
+2651	pos_neg_vous	{'HRAS': 'negative'}	
+2652	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 8%	(0+)	
+2653	pos_neg_vous	{'EGFR ALK HRAS PD-L1 BRCA1': 'vous'}	
+2654	no_biomarkers	
+2655	pos_neg_vous	{'BRCA1': 'negative'}	
+2656	no_biomarkers	
+2657	pos_neg_vous	{'PD-L1 BRCA1 BRCA2 HRAS EGFR GATA2': 'negtive'}	
+2658	failed	
+2659	no_biomarkers	
+2660	no_biomarkers	
+2661	no_biomarkers	
+2662	no_biomarkers	
+2663	no_biomarkers	
+2664	no_biomarkers	
+2665	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 9%	(0+)	
+2666	pos_neg_vous	{'BRCA1': 'positive'}	
+2667	no_biomarkers	
+2668	no_biomarkers	
+2669	no_biomarkers	
+2670	no_biomarkers	
+2671	pos_neg_vous	{'GATA2 BRCA1 PD-L1 ALK GATA3 HRAS': 'negtive'}	
+2672	no_biomarkers	
+2673	failed	
+2674	failed	
+2675	no_biomarkers	
+2676	pos_neg_vous	{'GATA2': 'positive'}	
+2677	failed	
+2678	pos_neg_vous	{'BRCA2': 'negative'}	
+2679	no_biomarkers	
+2680	no_biomarkers	
+2681	pos_neg_vous	{'GATA3': 'negative'}	
+2682	pos_neg_vous	{'BRCA1 ALK BRCA2 EGFR': 'vous'}	
+2683	pos_neg_vous	{'PD-L1': 'negative'}	
+2684	no_biomarkers	
+2685	no_biomarkers	
+2686	failed	
+2687	no_biomarkers	
+2688	no_biomarkers	
+2689	pos_neg_vous	{'BRCA2 GATA3 GATA2': 'negative'}	
+2690	pos_neg_vous	{'GATA2': 'positive'}	
+2691	no_biomarkers	
+2692	no_biomarkers	
+2693	pos_neg_vous	{'GATA2 PD-L1 HRAS GATA3 EGFR BRCA2': 'vous'}	
+2694	pos_neg_vous	{'ALK': 'negtive'}	
+2695	pos_neg_vous	{'GATA2 HRAS': 'vous'}	
+2696	pos_neg_vous	{'ALK': 'positive'}	
+2697	no_biomarkers	
+2698	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 9%	(0+)	
+2699	no_biomarkers	
+2700	no_biomarkers	
+2701	no_biomarkers	
+2702	no_biomarkers	
+2703	no_biomarkers	
+2704	pos_neg_vous	{'HRAS': 'positive'}	
+2705	no_biomarkers	
+2706	failed	
+2707	no_biomarkers	
+2708	no_biomarkers	
+2709	failed	
+2710	pos_neg_vous	{'BRCA1': 'vous'}	
+2711	failed	
+2712	pos_neg_vous	{'EGFR HRAS BRCA2': 'vous'}	
+2713	no_biomarkers	
+2714	pos_neg_vous	{'GATA3': 'positive'}	
+2715	no_biomarkers	
+2716	failed	
+2717	pos_neg_vous	{'BRCA1 HRAS GATA2 EGFR ALK BRCA2': 'vous'}	
+2718	no_biomarkers	
+2719	pos_neg_vous	{'PD-L1 GATA2 BRCA2': 'vous'}	
+2720	no_biomarkers	
+2721	no_biomarkers	
+2722	pos_neg_vous	{'BRCA1 PD-L1 HRAS GATA3 ALK': 'vous'}	
+2723	no_biomarkers	
+2724	pos_neg_vous	{'GATA2 GATA3 EGFR BRCA1': 'vous'}	
+2725	pos_neg_vous	{'PD-L1': 'negative'}	
+2726	no_biomarkers	
+2727	pos_neg_vous	{'EGFR GATA3 GATA2 ALK HRAS PD-L1 BRCA2': 'vous'}	
+2728	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	30%	(2+)	
+2729	no_biomarkers	
+2730	pos_neg_vous	{'ALK EGFR GATA3 GATA2': 'vous'}	
+2731	no_biomarkers	
+2732	pos_neg_vous	{'ESTROGEN RECEPTOR': 'vous'}	11%	(2+)	
+2733	no_biomarkers	
+2734	pos_neg_vous	{'PD-L1 GATA3 BRCA1 BRCA2 HRAS GATA2 ALK EGFR': 'vous'}	
+2735	no_biomarkers	
+2736	no_biomarkers	
+2737	pos_neg_vous	{'EGFR HRAS GATA2 ALK': 'vous'}	
+2738	no_biomarkers	
+2739	no_biomarkers	
+2740	pos_neg_vous	{'ALK': 'negative'}	
+2741	no_biomarkers	
+2742	no_biomarkers	
+2743	no_biomarkers	
+2744	no_biomarkers	
+2745	pos_neg_vous	{'HRAS ALK EGFR PD-L1 GATA2 BRCA1 BRCA2': 'negative'}	
+2746	no_biomarkers	
+2747	no_biomarkers	
+2748	pos_neg_vous	{'BRCA2': 'negative'}	
+2749	no_biomarkers	
+2750	no_biomarkers	
+2751	pos_neg_vous	{'PD-L1 ALK': 'negtive'}	
+2752	pos_neg_vous	{'BRCA2 BRCA1 GATA2 HRAS ALK PD-L1': 'negtive'}	
+2753	no_biomarkers	(2+ 	
+2754	failed	
+2755	pos_neg_vous	{'BRCA2': 'positive'}	
+2756	no_biomarkers	
+2757	pos_neg_vous	{'HRAS GATA3 EGFR GATA2': 'vous'}	
+2758	pos_neg_vous	{'EGFR': 'negative'}	
+2759	pos_neg_vous	{'GATA3': 'positive'}	
+2760	no_biomarkers	
+2761	no_biomarkers	
+2763	no_biomarkers	
+2764	no_biomarkers	
+2765	pos_neg_vous	{'BRCA1': 'vous'}	
+2766	no_biomarkers	
+2767	pos_neg_vous	{'GATA2 ALK PD-L1 HRAS BRCA1 BRCA2 EGFR GATA3': 'vous'}	
+2768	pos_neg_vous	{'ALK': 'negative'}	
+2769	pos_neg_vous	{'PD-L1 GATA3': 'vous'}	
+2770	no_biomarkers	
+2771	no_biomarkers	
+2772	no_biomarkers	
+2773	pos_neg_vous	{'GATA3 BRCA2 ALK EGFR': 'vous'}	
+2774	no_biomarkers	
+2775	no_biomarkers	
+2776	no_biomarkers	
+2777	pos_neg_vous	{'HRAS PD-L1 GATA3 EGFR BRCA2 GATA2': 'vous'}	
+2778	no_biomarkers	
+2779	pos_neg_vous	{'PD-L1 HRAS ALK': 'negative'}	
+2780	no_biomarkers	
+2781	no_biomarkers	(2+ 	
+2782	pos_neg_vous	{'HRAS GATA2 ALK PD-L1 GATA3 EGFR BRCA1 BRCA2': 'vous'}	
+2783	pos_neg_vous	{'HRAS ALK': 'vous'}	
+2784	pos_neg_vous	{'EGFR GATA2 BRCA2': 'negtive'}	
+2785	pos_neg_vous	{'BRCA2 GATA3 HRAS ALK BRCA1 GATA2 PD-L1': 'negtive'}	
+2786	pos_neg_vous	{'GATA2 ALK EGFR GATA3 HRAS PD-L1 BRCA1 BRCA2': 'vous'}	
+2787	no_biomarkers	
+2788	no_biomarkers	
+2789	failed	
+2790	pos_neg_vous	{'GATA3': 'negative'}	
+2791	no_biomarkers	
+2792	no_biomarkers	
+2793	pos_neg_vous	{'EGFR HRAS GATA2 GATA3 BRCA2': 'negtive'}	
+2794	pos_neg_vous	{'HRAS GATA2 BRCA2': 'vous'}	
+2795	failed	
+2796	no_biomarkers	
+2797	no_biomarkers	
+2798	no_biomarkers	
+2799	no_biomarkers	
+2800	no_biomarkers	
+2801	no_biomarkers	
+2802	failed	
+2803	no_biomarkers	
+2804	no_biomarkers	
+2805	pos_neg_vous	{'GATA2 HRAS GATA3': 'vous'}	
+2806	no_biomarkers	
+2807	no_biomarkers	(2+ 	
+2808	no_biomarkers	
+2809	pos_neg_vous	{'GATA3 BRCA1 HRAS ALK BRCA2 EGFR PD-L1': 'vous'}	
+2810	pos_neg_vous	{'PD-L1 GATA3': 'vous'}	
+2811	failed	
+2812	pos_neg_vous	{'BRCA1 GATA2 ALK': 'vous'}	
+2813	no_biomarkers	
+2814	no_biomarkers	
+2815	no_biomarkers	
+2816	pos_neg_vous	{'PD-L1 EGFR GATA3 HRAS': 'negtive'}	
+2817	no_biomarkers	
+2818	pos_neg_vous	{'HRAS PD-L1 GATA3': 'vous'}	
+2819	no_biomarkers	
+2820	pos_neg_vous	{'GATA3': 'vous'}	
+2821	pos_neg_vous	{'GATA3 GATA2 ALK HRAS EGFR': 'negtive'}	
+2822	pos_neg_vous	{'BRCA2': 'negative'}	
+2823	failed	
+2824	failed	
+2825	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	99%	(3+)	
+2826	pos_neg_vous	{'GATA2': 'negative'}	
+2827	no_biomarkers	
+2828	no_biomarkers	
+2829	pos_neg_vous	{'BRCA2': 'positive'}	
+2830	no_biomarkers	
+2831	pos_neg_vous	{'GATA2 HRAS EGFR GATA3 BRCA1 BRCA2 PD-L1': 'vous'}	
+2832	pos_neg_vous	{'GATA3 EGFR': 'vous'}	
+2833	pos_neg_vous	{'GATA3 EGFR': 'vous'}	
+2834	no_biomarkers	
+2835	pos_neg_vous	{'HRAS': 'negative'}	
+2836	no_biomarkers	
+2837	pos_neg_vous	{'PD-L1 BRCA2 GATA2 EGFR GATA3 BRCA1 ALK': 'vous'}	
+2838	no_biomarkers	
+2839	pos_neg_vous	{'HRAS BRCA1 EGFR ALK PD-L1 BRCA2 GATA2': 'vous'}	
+2840	no_biomarkers	
+2841	pos_neg_vous	{'EGFR HRAS ALK': 'negative'}	
+2842	no_biomarkers	
+2843	no_biomarkers	
+2844	no_biomarkers	
+2845	pos_neg_vous	{'BRCA1 HRAS PD-L1 BRCA2 EGFR': 'negative'}	
+2846	pos_neg_vous	{'GATA3': 'positive'}	
+2847	pos_neg_vous	{'EGFR GATA2 PD-L1 HRAS BRCA1': 'negative'}	
+2848	pos_neg_vous	{'ALK BRCA1 EGFR HRAS BRCA2': 'vous'}	
+2849	pos_neg_vous	{'GATA3 GATA2 BRCA1 HRAS ALK BRCA2': 'vous'}	
+2850	pos_neg_vous	{'EGFR ALK PD-L1 HRAS BRCA2 BRCA1': 'negative'}	
+2851	no_biomarkers	
+2852	no_biomarkers	
+2853	pos_neg_vous	{'BRCA1': 'negative'}	
+2854	no_biomarkers	
+2855	no_biomarkers	
+2856	no_biomarkers	
+2857	pos_neg_vous	{'EGFR GATA3 ALK BRCA2 HRAS BRCA1 GATA2': 'vous'}	
+2858	no_biomarkers	
+2859	pos_neg_vous	{'EGFR PD-L1 HRAS BRCA2 ALK': 'vous'}	
+2860	no_biomarkers	
+2861	no_biomarkers	
+2862	failed	
+2863	no_biomarkers	
+2864	no_biomarkers	
+2865	no_biomarkers	
+2866	no_biomarkers	
+2867	pos_neg_vous	{'BRCA1 GATA3 HRAS ALK': 'vous'}	
+2868	pos_neg_vous	{'ALK BRCA2 GATA3 EGFR PD-L1 BRCA1 GATA2': 'negtive'}	
+2869	failed	
+2870	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'negative'}	 4%	(0+)	
+2871	pos_neg_vous	{'PD-L1 HRAS GATA3 BRCA1 EGFR BRCA2 GATA2': 'negative'}	
+2872	no_biomarkers	
+2873	pos_neg_vous	{'GATA2 BRCA1 PD-L1': 'vous'}	
+2874	pos_neg_vous	{'BRCA2 PD-L1 HRAS ALK EGFR GATA3 BRCA1': 'vous'}	
+2875	no_biomarkers	
+2876	no_biomarkers	
+2877	failed	
+2878	no_biomarkers	
+2879	pos_neg_vous	{'GATA3 BRCA2 EGFR PD-L1': 'negtive'}	
+2880	no_biomarkers	
+2881	no_biomarkers	
+2882	no_biomarkers	
+2883	no_biomarkers	
+2884	pos_neg_vous	{'BRCA1': 'positive'}	
+2885	pos_neg_vous	{'BRCA2 HRAS GATA3 EGFR GATA2 BRCA1 ALK': 'negtive'}	
+2886	no_biomarkers	
+2887	failed	
+2888	no_biomarkers	
+2889	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	96%	(5+)	
+2890	pos_neg_vous	{'BRCA1 PD-L1 BRCA2 GATA3': 'vous'}	
+2891	no_biomarkers	
+2892	no_biomarkers	
+2893	pos_neg_vous	{'BRCA2 BRCA1 EGFR GATA2 PD-L1 ALK': 'vous'}	
+2894	pos_neg_vous	{'PD-L1 BRCA2': 'negtive'}	
+2895	no_biomarkers	
+2896	pos_neg_vous	{'GATA2': 'positive'}	
+2897	failed	
+2898	no_biomarkers	
+2899	no_biomarkers	
+2900	pos_neg_vous	{'GATA2 ALK': 'vous'}	
+2901	no_biomarkers	
+2902	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	90%	(4+)	
+2903	no_biomarkers	
+2904	no_biomarkers	
+2905	no_biomarkers	
+2906	no_biomarkers	
+2907	no_biomarkers	
+2909	no_biomarkers	
+2910	no_biomarkers	
+2911	failed	
+2912	no_biomarkers	
+2913	pos_neg_vous	{'BRCA1': 'negative'}	
+2914	pos_neg_vous	{'GATA2': 'negative'}	
+2915	pos_neg_vous	{'GATA2': 'negative'}	
+2916	pos_neg_vous	{'ALK': 'negative'}	
+2917	pos_neg_vous	{'EGFR': 'positive'}	
+2918	no_biomarkers	
+2919	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	91%	(4+)	
+2920	no_biomarkers	
+2921	no_biomarkers	
+2922	no_biomarkers	(2+ 	
+2923	failed	
+2924	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	98%	(4+)	
+2925	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 6%	(0+)	
+2926	no_biomarkers	
+2927	no_biomarkers	
+2928	no_biomarkers	
+2929	no_biomarkers	
+2930	no_biomarkers	
+2931	no_biomarkers	
+2932	no_biomarkers	
+2933	no_biomarkers	
+2934	no_biomarkers	
+2935	failed	
+2936	no_biomarkers	
+2937	no_biomarkers	
+2938	no_biomarkers	
+2939	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	94%	(4+)	
+2940	no_biomarkers	
+2941	pos_neg_vous	{'EGFR PD-L1 HRAS ALK': 'vous'}	
+2942	no_biomarkers	
+2943	no_biomarkers	
+2944	failed	
+2945	no_biomarkers	
+2946	no_biomarkers	
+2947	failed	
+2948	failed	
+2949	pos_neg_vous	{'GATA2': 'positive'}	
+2950	no_biomarkers	
+2951	no_biomarkers	
+2952	pos_neg_vous	{'BRCA1': 'positive'}	
+2953	failed	
+2954	no_biomarkers	
+2955	no_biomarkers	
+2956	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	63%	(2+)	
+2957	pos_neg_vous	{'PD-L1': 'negative'}	
+2958	no_biomarkers	
+2959	no_biomarkers	
+2960	no_biomarkers	
+2961	no_biomarkers	
+2962	no_biomarkers	
+2963	no_biomarkers	
+2964	no_biomarkers	
+2965	no_biomarkers	
+2966	no_biomarkers	
+2967	no_biomarkers	
+2968	no_biomarkers	
+2969	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'vous'}	53%	(2+)	
+2970	pos_neg_vous	{'GATA3 EGFR ALK PD-L1 GATA2 BRCA1': 'vous'}	
+2971	pos_neg_vous	{'PROGESTERONE RECEPTOR': 'positive'}	98%	(3+)	
+2972	pos_neg_vous	{'PD-L1 GATA2 HRAS ALK EGFR BRCA1 GATA3': 'vous'}	
+2973	no_biomarkers	
+2974	no_biomarkers	
+2975	no_biomarkers	
+2976	no_biomarkers	
+2977	no_biomarkers	(2+ 	
+2978	failed	
+2979	no_biomarkers	
+2980	pos_neg_vous	{'ALK GATA3 PD-L1': 'vous'}	
+2981	no_biomarkers	
+2982	no_biomarkers	
+2983	no_biomarkers	
+2984	no_biomarkers	
+2985	pos_neg_vous	{'PD-L1 GATA3 EGFR HRAS GATA2 BRCA2': 'negative'}	
+2986	no_biomarkers	
+2987	pos_neg_vous	{'ALK': 'negtive'}	
+2988	no_biomarkers	
+2989	no_biomarkers	
+2990	pos_neg_vous	{'BRCA1': 'negative'}	
+2991	pos_neg_vous	{'ESTROGEN RECEPTOR': 'positive'}	00%	(3+)	
+2992	pos_neg_vous	{'ESTROGEN RECEPTOR': 'negative'}	 3%	(0+)	
+2993	no_biomarkers	
+2994	pos_neg_vous	{'ALK': 'vous'}	
+2995	pos_neg_vous	{'ALK BRCA2 PD-L1 GATA2': 'vous'}	
+2996	pos_neg_vous	{'PD-L1 EGFR ALK GATA3 HRAS BRCA1 BRCA2': 'negtive'}	
+2997	no_biomarkers	
+2998	no_biomarkers	
+2999	pos_neg_vous	{'PD-L1 BRCA2 HRAS ALK GATA3 EGFR': 'vous'}	
+3000	no_biomarkers	
